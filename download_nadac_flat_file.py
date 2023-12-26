@@ -11,8 +11,10 @@ response = requests.request("GET", url)
 response_dict = response.json()
 
 # store indented JSON in text file
-with open("metastore_dataset", "w") as f:
+with open("metastore_dataset.JSON", "w") as f:
     json.dump(response_dict, f, indent = 4)
+
+print("JSON file with dataset metadata created")
 
 # write dataset titles to file for ease of browsing and save to list
 try:
@@ -25,6 +27,19 @@ with open('dataset_titles.txt', "w") as f:
         print(f"{count}: {value['title']}", file=f)
 
 print("Medicare datset list file created")
+
+# write dataset titles and descriptions to file for ease of browsing and save to list
+try:
+   with open('dataset_titles_and_desc.txt'): pass
+except IOError:
+   print('File not found...new file will be created')
+
+with open('dataset_titles_and_desc.txt', "w") as f:
+    for count, value in enumerate(response_dict):
+        print(f"{count}: {value['title']}\n", file=f)
+        print(f"{value['description']}", file=f)
+
+print("Medicare datset list and descriptions file created")
 
 # search through response list to find API links for all NADAC years
 response_nadac = list(filter(lambda d: "NADAC (National Average Drug Acquisition Cost)" in d['title'], response_dict))

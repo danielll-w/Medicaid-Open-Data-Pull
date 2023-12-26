@@ -1,0 +1,2828 @@
+0: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211011 to 20211017
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+1: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program
+The Table below, updated weekly, contains newly reported, active covered
+outpatient drugs which were reported by participating drug manufacturers since
+the last quarterly update of the Drug Products in the Medicaid Drug Rebate
+Program (MDRP) database. Each file on this table represents a snapshot of data
+in the system and is not updated by subsequent changes. Once the covered
+outpatient drugs in each of these files appear in the quarterly MDRP database,
+the file will be removed from this table. States can utilize these files to
+identify newly reported covered outpatient drugs.
+
+2: implAuto_measure_allStates_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+3: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210802 to 20210808
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+4: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210809 to 20210815
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+5: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210816 to 20210822
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+6: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210823 to 20210829
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+7: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210927 to 20211003
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+8: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210830 to 20210905
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+9: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210906 to 20210912
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+10: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210913 to 20210919
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+11: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210920 to 20210926
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+12: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210726 to 20210801
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+13: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211004 to 20211010
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+14: prodAuto_measure_allStates_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+15: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211018 to 20211024
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+16: 2018 Managed Care Programs By State
+Dataset.
+
+17: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211025 to 20211031
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+18: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211101 to 20211107
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+19: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-01-31 to 2022-02-06
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+20: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-07 to 2022-02-13
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+21: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-14 to 2022-02-20
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+22: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-21 to 2022-02-27
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+23: featAuto_measure_allStates_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+24: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-28 to 2022-03-06
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+25: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-07 to 2022-03-13
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+26: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-14 to 2022-03-20
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+27: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-21 to 2022-03-27
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+28: SDUD
+SDUD
+
+29: NADAC
+test
+
+30: CHIP Applications, Eligibility Determinations, and Enrollment Data
+All states (including the District of Columbia) are required to provide data to
+The Centers for Medicare &amp; Medicaid Services (CMS) on a range of indicators
+related to key application, eligibility, and enrollment processes within the
+state Medicaid and Children’s Health Insurance Programs (CHIP). These data
+reflect enrollment activity for all populations receiving comprehensive Medicaid
+and CHIP benefits in all states, as well as state program performance.
+
+31: devAuto_measure_allStates_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+32: 2020 Managed Care Programs By State
+Dataset.
+
+33: 2019 Managed Care Programs By State
+Dataset.
+
+34: featAuto_states
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+35: PTP1executedv1-test
+pvtest
+
+36: DrugProductexecutedv1 - test
+pvtest
+
+37: featAuto_files_stateSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+38: featAuto_files_topicSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+39: devAuto_files_stateSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+40: devAuto_files_topicSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+41: implAuto_files_topicSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+42: implAuto_files_stateSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+43: prodAuto_files_topicSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+44: prodAuto_files_stateSnapshot
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+45: State Drug Utilization Data 1991
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+46: State Drug Utilization Data 1992
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+47: State Drug Utilization Data 1993
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+48: State Drug Utilization Data 1994
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+49: State Drug Utilization Data 1995
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+50: State Drug Utilization Data 1996
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+51: State Drug Utilization Data 1997
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+52: State Drug Utilization Data 1998
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+53: State Drug Utilization Data 1999
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+54: State Drug Utilization Data 2000
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+55: State Drug Utilization Data 2001
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+56: State Drug Utilization Data 2002
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+57: State Drug Utilization Data 2003
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+58: State Drug Utilization Data 2004
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+59: State Drug Utilization Data 2005
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+60: State Drug Utilization Data 2006
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+61: State Drug Utilization Data 2007
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+62: State Drug Utilization Data 2008
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+63: State Drug Utilization Data 2009
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+64: State Drug Utilization Data 2010
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+65: State Drug Utilization Data 2011
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+66: State Drug Utilization Data 2012
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+67: State Drug Utilization Data 2013
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+68: State Drug Utilization Data 2014
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+69: State Drug Utilization Data 2015
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+70: State Drug Utilization Data 2016
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+71: State Drug Utilization Data 2017
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+72: Pricing Comparison for Blood Disorder Treatments (Pricing as of 6/1/2022)
+The Reference Document link for the downable Blood Disorder Treatment
+Spreadsheet can be accessed below under the Additional Information table under
+Related Documents.
+
+73: Pricing Comparison for Blood Disorder Treatments (Pricing as of 12/1/2022)
+The Reference Document link for the downable Blood Disorder Treatment
+Spreadsheet can be accessed below under the Additional Information table under
+Related Documents.
+
+74: Pricing Comparison for Blood Disorder Treatments (Pricing as of 12/1/2021)
+The Reference Document link for the downable Blood Disorder Treatment
+Spreadsheet can be accessed below under the Additional Information table under
+Related Documents.
+
+75: NADAC (National Average Drug Acquisition Cost) 2022
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+76: NADAC (National Average Drug Acquisition Cost) 2021
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+77: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-30-to-2023-02-05
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+78: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-02-to-2023-01-08
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+79: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-09-to-2023-01-15
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+80: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-16-to-2023-01-22
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+81: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-23-to-2023-01-29
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+82: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-12-26-to-2023-01-01
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+83: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-06-to-2023-02-12
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+84: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-13-to-2023-02-19
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+85: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-20-to-2023-02-26
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+86: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-27-to-2023-03-05
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+87: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-06-to-2023-03-12
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+88: Program Information for Medicaid and CHIP Beneficiaries by Month
+This data set includes monthly enrollment counts of Medicaid and CHIP
+beneficiaries by program type (Medicaid or CHIP).     These metrics are based on
+data in the T-MSIS Analytic Files (TAF). Some states have serious data quality
+issues for one or more months, making the data unusable for calculating these
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable or of high concern
+based on DQ Atlas thresholds for the topics Medicaid-only Enrollment and M-CHIP
+and S-CHIP Enrollment. Please refer to the DQ Atlas at http://medicaid.gov/dq-
+atlas for more information about data quality assessment methods.     Some cells
+have a value of “DS”. This indicates that data were suppressed for
+confidentiality reasons because the group included fewer than 11 beneficiaries.
+
+89: Program Information for Medicaid and CHIP Beneficiaries by Year
+This data set presents annual enrollment counts of Medicaid and CHIP
+beneficiaries by program type (Medicaid or CHIP). There are three metrics
+presented: (1) the number of beneficiaries ever enrolled in each program type
+over the year (duplicated count); (2) the number of beneficiaries enrolled in
+each program type as of an individual’s last month of enrollment (unduplicated
+count); and (3) average monthly enrollment in each program type.     These
+metrics are based on data in the T-MSIS Analytic Files (TAF). Some states have
+serious data quality issues, making the data unusable for calculating these
+measures. To assess data quality, analysts used measures featured in the DQ
+Atlas. Data for a state and year are considered unusable or of high concern
+based on DQ Atlas thresholds for the topics Medicaid-only enrollment and M-CHIP
+and S-CHIP Enrollment. Please refer to the DQ Atlas at http://medicaid.gov/dq-
+atlas for more information about data quality assessment methods.    Some cells
+have a value of “DS”. This indicates that data were suppressed for
+confidentiality reasons because the group included fewer than 11 beneficiaries.
+
+90: Benefit Package for Medicaid and CHIP Beneficiaries by Month
+This data set includes monthly enrollment counts of Medicaid and CHIP
+beneficiaries by benefit package (full-scope, comprehensive, limited, or
+unknown).     These metrics are based on data in the T-MSIS Analytic Files
+(TAF). Some states have serious data quality issues for one or more months,
+making the data unusable for calculating these measures. To assess data quality,
+analysts adapted measures featured in the DQ Atlas. Data for a state and month
+are considered unusable or of high concern based on DQ Atlas thresholds for the
+topic Restricted Benefits Code. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.     Some cells have a value of “DS”. This indicates that data were
+suppressed for confidentiality reasons because the group included fewer than 11
+beneficiaries.
+
+91: Benefit Package for Medicaid and CHIP Beneficiaries by Year
+This data set presents annual enrollment counts of Medicaid and CHIP
+beneficiaries by benefit package (full-scope, comprehensive, limited, or
+unknown). There are three metrics presented: (1) the number of beneficiaries
+ever enrolled with each benefit package over the year (duplicated count); (2)
+the number of beneficiaries enrolled with each benefit package as of an
+individual’s last month of enrollment (unduplicated count); and (3) average
+monthly enrollment with each benefit package.     These metrics are based on
+data in the T-MSIS Analytic Files (TAF). Some states have serious data quality
+issues for one or more months, making the data unusable for calculating these
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable or of high concern
+based on DQ Atlas thresholds for the topic Restricted Benefits Code. Please
+refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more information about
+data quality assessment methods. Some cells have a value of “DS”. This indicates
+that data were suppressed for confidentiality reasons because the group included
+fewer than 11 beneficiaries.    Some cells have a value of “DS”. This indicates
+that data were suppressed for confidentiality reasons because the group included
+fewer than 11 beneficiaries.
+
+92: Dual Status Information for Medicaid and CHIP Beneficiaries by Month
+This data set includes monthly enrollment counts of Medicaid and CHIP
+beneficiaries by dual eligibility status for Medicaid and Medicare (full dual
+eligibility, partial dual eligibility, or not dually eligible).    These metrics
+are based on data in the T-MSIS Analytic Files (TAF). Some states have serious
+data quality issues for one or more months, making the data unusable for
+calculating these measures. To assess data quality, analysts adapted measures
+featured in the DQ Atlas. Data for a state and month are considered unusable or
+of high concern based on DQ Atlas thresholds for the topic Dually Enrolled in
+Medicare. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.    Some cells have a value of
+“DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+93: Dual Status Information for Medicaid and CHIP Beneficiaries by Year
+This data set presents annual enrollment counts of Medicaid and CHIP
+beneficiaries by dual eligibility status for Medicaid and Medicare (full dual
+eligibility, partial dual eligibility, or not dually eligible). There are three
+metrics presented: (1) the number of beneficiaries ever dually eligible for
+Medicaid and Medicare over the year (duplicated count); (2) the number of
+beneficiaries dually eligible for Medicaid and Medicare as of an individual’s
+last month of enrollment (unduplicated count); and (3) average monthly
+eligibility for Medicaid and Medicare.     These metrics are based on data in
+the T-MSIS Analytic Files (TAF). Some states have serious data quality issues
+for one or more months, making the data unusable for calculating these measures.
+To assess data quality, analysts adapted measures featured in the DQ Atlas. Data
+for a state and month are considered unusable or of high concern based on DQ
+Atlas thresholds for the topic Dually Enrolled in Medicare. Please refer to the
+DQ Atlas at http://medicaid.gov/dq-atlas for more information about data quality
+assessment methods.     Some cells have a value of “DS”. This indicates that
+data were suppressed for confidentiality reasons because the group included
+fewer than 11 beneficiaries.
+
+94: Major Eligibility Group Information for Medicaid and CHIP Beneficiaries by Month
+This data set includes monthly enrollment counts of Medicaid and CHIP
+beneficiaries by major eligibility group (children, adult expansion group,
+adult, aged, persons with disabilities, or COVID newly-eligible).    These
+metrics are based on data in the T-MSIS Analytic Files (TAF). Some states have
+serious data quality issues for one or more months, making the data unusable for
+calculating these measures. To assess data quality, analysts adapted measures
+featured in the DQ Atlas. Data for a state and month are considered unusable or
+of high concern  based on DQ Atlas thresholds for the topic Eligibility Group
+Code. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.     Some cells have a value
+of “DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+95: Major Eligibility Group Information for Medicaid and CHIP Beneficiaries by Year
+This data set presents annual enrollment counts of Medicaid and CHIP
+beneficiaries by major eligibility group (children, adult expansion group,
+adult, aged, persons with disabilities, or COVID newly-eligible). There are
+three metrics presented: (1) the number of beneficiaries ever enrolled in each
+major eligibility group over the year (duplicated count); (2) the number of
+beneficiaries enrolled in each major eligibility group as of an individual’s
+last month of enrollment (unduplicated count); and (3) average monthly
+enrollment in each major eligibility group.     These metrics are based on data
+in the T-MSIS Analytic Files (TAF). Some states have serious data quality
+issues, making the data unusable for calculating these measures. To assess data
+quality, analysts used measures featured in the DQ Atlas. Data for a state and
+year are considered unusable or of high concern based on DQ Atlas thresholds for
+the topic Eligibility Group Code. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.       Some cells have a value of “DS”. This indicates that data were
+suppressed for confidentiality reasons because the group included fewer than 11
+beneficiaries.
+
+96: Managed Care Information for Medicaid and CHIP Beneficiaries by Month
+This data set includes monthly enrollment counts of Medicaid and CHIP
+beneficiaries by managed care participation (comprehensive managed care, primary
+care case management, MLTSS, including PACE, behavioral health organizations,
+nonmedical prepaid health plans, medical-only prepaid health plans, and other).
+These metrics are based on data in the T-MSIS Analytic Files (TAF). Some states
+have serious data quality issues for one or more months, making the data
+unusable for calculating these measures. To assess data quality, analysts
+adapted measures featured in the DQ Atlas. Data for a state and month are
+considered unusable or of high concern based on DQ Atlas thresholds for the
+topics Enrollment in CMC, Enrollment in PCCM Programs, and Enrollment in BHO
+Plans. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.     Some cells have a value
+of “DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+97: Managed Care Information for Medicaid and CHIP Beneficiaries by Year
+This data set presents annual enrollment counts of Medicaid and CHIP
+beneficiaries by managed care participation (comprehensive managed care, primary
+care case management, MLTSS, including PACE, behavioral health organizations,
+nonmedical prepaid health plans, medical-only prepaid health plans, and other).
+There are three metrics presented: (1) the number of beneficiaries ever enrolled
+in each managed care plan type over the year (duplicated count); (2) the number
+of beneficiaries enrolled in each managed care plan type as of an individual’s
+last month of enrollment (duplicated count); and (3) average monthly enrollment
+in each managed care plan type.      These metrics are based on data in the
+T-MSIS Analytic Files (TAF). Some cells have a value of “DS”. Some states have
+serious data quality issues, making the data unusable for calculating these
+measures. To assess data quality, analysts used measures featured in the DQ
+Atlas. Data for a state and year are considered unusable or of high concern
+based on DQ Atlas thresholds for the topics Enrollment in CMC, Enrollment in
+PCCM Programs, and Enrollment in BHO Plans. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.    Some cells have a value of “DS”. This indicates that data were
+suppressed for confidentiality reasons because the group included fewer than 11
+beneficiaries.
+
+98: Acute Care Services Provided to the Medicaid and CHIP Population
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+acute care services, including emergency department (ED) visits, inpatient
+stays, intensive care unit (ICU) stays, and ICU stays that include ventilator
+use, provided to Medicaid and CHIP beneficiaries, by state. Users can filter to
+acute care services for any reason, or acute care services for COVID-19.
+These metrics are based on data in the T-MSIS Analytic Files (TAF). Some states
+have serious data quality issues for one or more months, making the data
+unusable for calculating acute care services measures. To assess data quality,
+analysts adapted measures featured in the DQ Atlas. Data for a state and month
+are considered unusable if at least one of the following topics meets the DQ
+Atlas threshold for unusable: Total Medicaid and CHIP Enrollment, Claims Volume
+- IP, Claims Volume - OT, Diagnosis Code - IP, Diagnosis Code - OT, Procedure
+Codes - OT Professional. Please refer to the DQ Atlas at http://medicaid.gov/dq-
+atlas for more information about data quality assessment methods. Cells with a
+value of “DQ” indicate that data were suppressed due to unusable data.     Some
+cells have a value of “DS”. This indicates that data were suppressed for
+confidentiality reasons because the group included fewer than 11 beneficiaries.
+
+99: Behavioral Health Services Provided to the Medicaid and CHIP Population
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+behavioral health services, including emergency department services, inpatient
+services, intensive outpatient/partial hospitalizations, outpatient services, or
+services delivered through telehealth, provided to Medicaid and CHIP
+beneficiaries, by state. Users can filter by either mental health disorder or
+substance use disorder.     These metrics are based on data in the T-MSIS
+Analytic Files (TAF). Some states have serious data quality issues for one or
+more months, making the data unusable for calculating behavioral health services
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable if at least one of the
+following topics meets the DQ Atlas threshold for unusable: Total Medicaid and
+CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Diagnosis Code - IP,
+Diagnosis Code - OT. Please refer to the DQ Atlas at http://medicaid.gov/dq-
+atlas for more information about data quality assessment methods. Cells with a
+value of “DQ” indicate that data were suppressed due to unusable data.     Some
+cells have a value of “DS”. This indicates that data were suppressed for
+confidentiality reasons because the group included fewer than 11 beneficiaries.
+
+100: Blood Lead Screening Services Provided to Medicaid and CHIP Beneficiaries Ages 1-2
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+behavioral health services, including emergency department services, inpatient
+services, intensive outpatient/partial hospitalizations, outpatient services, or
+services delivered through telehealth, provided to Medicaid and CHIP
+beneficiaries, by state. Users can filter by either mental health disorder or
+substance use disorder.     These metrics are based on data in the T-MSIS
+Analytic Files (TAF). Some states have serious data quality issues for one or
+more months, making the data unusable for calculating behavioral health services
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable if at least one of the
+following topics meets the DQ Atlas threshold for unusable: Total Medicaid and
+CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Diagnosis Code - IP,
+Diagnosis Code - OT. Please refer to the DQ Atlas at http://medicaid.gov/dq-
+atlas for more information about data quality assessment methods. Cells with a
+value of “DQ” indicate that data were suppressed due to unusable data.     Some
+cells have a value of “DS”. This indicates that data were suppressed for
+confidentiality reasons because the group included fewer than 11 beneficiaries.
+
+101: COVID Testing  and Testing-Related  Services Provided to Medicaid and CHIP Beneficiaries
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+COVID-19 testing services provided to Medicaid and CHIP beneficiaries, by state.
+These metrics are based on data in the T-MSIS Analytic Files (TAF). Some states
+have serious data quality issues for one or more months, making the data
+unusable for calculating COVID-19 testing services measures. To assess data
+quality, analysts adapted measures featured in the DQ Atlas. Data for a state
+and month are considered unusable if at least one of the following topics meets
+the DQ Atlas threshold for unusable: Total Medicaid and CHIP Enrollment,
+Procedure Codes - OT Professional, Claims Volume - OT. Please refer to the DQ
+Atlas at http://medicaid.gov/dq-atlas for more information about data quality
+assessment methods. Cells with a value of “DQ” indicate that data were
+suppressed due to unusable data.     Some cells have a value of “DS”. This
+indicates that data were suppressed for confidentiality reasons because the
+group included fewer than 11 beneficiaries.
+
+102: Contraceptive Care Services Provided to Medicaid and CHIP Beneficiaries ages 15 to 44
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+contraceptives, including any contraceptives and long-acting reversible
+contraceptives, provided to female Medicaid and CHIP beneficiaries ages 15 to 44
+(as of the first day of the month), by state.     These metrics are based on
+data in the T-MSIS Analytic Files (TAF). Some states have serious data quality
+issues for one or more months, making the data unusable for calculating
+contraceptive care services measures. To assess data quality, analysts adapted
+measures featured in the DQ Atlas. Data for a state and month are considered
+unusable if at least one of the following topics meets the DQ Atlas threshold
+for unusable: Total Medicaid and CHIP Enrollment, Procedure Codes - OT
+Professional, Claims Volume - OT. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods. Cells with a value of “DQ” indicate that data were suppressed due to
+unusable data.     Some cells have a value of “DS”. This indicates that data
+were suppressed for confidentiality reasons because the group included fewer
+than 11 beneficiaries.
+
+103: Dental Services Provided to Medicaid and CHIP Beneficiaries Under Age 19
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+dental services provided to Medicaid and CHIP beneficiaries under the age of 19
+(as of the first day of the month), by state.     These metrics are based on
+data in the T-MSIS Analytic Files (TAF). Some states have serious data quality
+issues for one or more months, making the data unusable for calculating dental
+services measures. To assess data quality, analysts adapted measures featured in
+the DQ Atlas. Data for a state and month are considered unusable if at least one
+of the following topics meets the DQ Atlas threshold for unusable: Total
+Medicaid and CHIP Enrollment, Procedure Codes - OT Professional, Claims Volume -
+OT. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods. Cells with a value of “DQ”
+indicate that data were suppressed due to unusable data.     Some cells have a
+value of “DS”. This indicates that data were suppressed for confidentiality
+reasons because the group included fewer than 11 beneficiaries.
+
+104: Perinatal Care Services Provided to Medicaid and CHIP Beneficiaries ages 15 to 44
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+perinatal care, including prenatal visits, prenatal bundled payments, postpartum
+visits, and postpartum bundled payments, for female Medicaid and CHIP
+beneficiaries ages 15 to 44 (as of the first day of the month), by state.
+These metrics are based on data in the T-MSIS Analytic Files (TAF). Some states
+have serious data quality issues for one or more months, making the data
+unusable for calculating perinatal care measures. To assess data quality,
+analysts adapted measures featured in the DQ Atlas. Data for a state and month
+are considered unusable if at least one of the following topics meets the DQ
+Atlas threshold for unusable: Total Medicaid and CHIP Enrollment, Procedure
+Codes - OT Professional, Claims Volume - OT. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas  for more information about data quality assessment
+methods. Cells with a value of “DQ” indicate that data were suppressed due to
+unusable data.     Some cells have a value of “DS”. This indicates that data
+were suppressed for confidentiality reasons because the group included fewer
+than 11 beneficiaries.
+
+105: Pregnancy Outcomes for Medicaid and CHIP Beneficiaries ages 15 to 44
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+pregnancy outcomes, including (1) live births and (2) miscarriages, stillbirths,
+and terminations, for female Medicaid and CHIP beneficiaries ages 15 to 44 (as
+of the first day of the month), by state.     These metrics are based on data in
+the T-MSIS Analytic Files (TAF). Some states have serious data quality issues
+for one or more months, making the data unusable for calculating pregnancy
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable if at least one of the
+following topics meets the DQ Atlas threshold for unusable: Total Medicaid and
+CHIP Enrollment, Procedure Codes - OT Professional, Claims Volume - OT. Please
+refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more information about
+data quality assessment methods. Cells with a value of “DQ” indicate that data
+were suppressed due to unusable data.     Some cells have a value of “DS”. This
+indicates that data were suppressed for confidentiality reasons because the
+group included fewer than 11 beneficiaries.
+
+106: Telehealth Services Provided to the Medicaid and CHIP Population
+This data set includes monthly counts and rates (per 1,000 beneficiaries)
+of services provided via telehealth, including live audio video, remote patient
+monitoring, store and forward, and other telehealth, to Medicaid and CHIP
+beneficiaries, by state.     These metrics are based on data in the T-MSIS
+Analytic Files (TAF). Some states have serious data quality issues for one or
+more months, making the data unusable for calculating telehealth services
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable if at least one of the
+following topics meets the DQ Atlas threshold for unusable: Total Medicaid and
+CHIP Enrollment, Claims Volume - OT, Procedure Codes - OT Professional. Please
+refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more information about
+data quality assessment methods. Cells with a value of “DQ” indicate that data
+were suppressed due to unusable data.     Some cells have a value of “DS”. This
+indicates that data were suppressed for confidentiality reasons because the
+group included fewer than 11 beneficiaries.
+
+107: Vaccinations Provided to the Medicaid and CHIP Population under age 19
+This data set includes monthly counts and rates (per 1,000 beneficiaries) of
+vaccinations provided to Medicaid and CHIP beneficiaries under age 19 (as of the
+first day of the month), by state. The following vaccinations are included:
+Chickenpox, DTaP, HPV, Hepatitis A, Hepatitis B, Influenza, MMR, Meningococcal,
+Meningococcal B, Pneumococcal conjugate, Pneumococcal polysaccharide, Polio,
+Rotavirus, Tdap, and all vaccinations.     These metrics are based on data in
+the T-MSIS Analytic Files (TAF). Some states have serious data quality issues
+for one or more months, making the data unusable for calculating vaccination
+measures. To assess data quality, analysts adapted measures featured in the DQ
+Atlas. Data for a state and month are considered unusable if at least one of the
+following topics meets the DQ Atlas threshold for unusable: Total Medicaid and
+CHIP Enrollment, Procedure Codes - OT Professional, Claims Volume - OT. Please
+refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more information about
+data quality assessment methods. Cells with a value of “DQ” indicate that data
+were suppressed due to unusable data.     Some cells have a value of “DS”. This
+indicates that data were suppressed for confidentiality reasons because the
+group included fewer than 11 beneficiaries.
+
+108: Health Screenings Provided to Medicaid and CHIP Beneficiaries Under Age 19
+This data set includes monthly counts and rates (per 1,000 beneficiaries)
+of health screenings provided to Medicaid and CHIP beneficiaries under the age
+of 19 (as of the first day of the month) by state.     These metrics are based
+on data in the T-MSIS Analytic Files (TAF). Some states have serious data
+quality issues for one or more months, making the data unusable for calculating
+screening services measures. To assess data quality, analysts adapted measures
+featured in the DQ Atlas. Data for a state and month are considered unusable if
+at least one of the following topics meets the DQ Atlas threshold for unusable:
+Total Medicaid and CHIP Enrollment, Procedure Codes - OT Professional, Diagnosis
+Codes - OT, Claims Volume - OT. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods. Cells with a value of “DQ” indicate that data were suppressed due to
+unusable data.     Some cells have a value of “DS”. This indicates that data
+were suppressed for confidentiality reasons because the group included fewer
+than 11 beneficiaries.
+
+109: Respiratory Conditions in the Medicaid and CHIP Population
+This data set includes monthly counts and percentages of Medicaid and CHIP
+beneficiaries, by state, who received at least one service for each of the
+following conditions: acute bronchitis, acute respiratory distress, bronchitis
+not other specified (NOS), COVID-19 (based on the presence of diagnosis code
+U07.1), influenza, lower or acute respiratory infection, pneumonia, respiratory
+infection NOS, and suspected COVID-19 (based on the presence of diagnosis code
+B97.29).    These metrics are based on data in the T-MSIS Analytic Files (TAF).
+Some states have serious data quality issues for one or more months, making the
+data unusable for calculating COVID-related conditions measures. To assess data
+quality, analysts adapted measures featured in the DQ Atlas. Data for a state
+and month are considered unusable if at least one of the following topics meets
+the DQ Atlas threshold for unusable: Total Medicaid and CHIP Enrollment, Claims
+Volume - IP, Claims Volume - OT, Claims Volume - IP, Diagnosis Code - IP,
+Diagnosis Code - OT, Procedure Codes - OT Professional. Please refer to the DQ
+Atlas at http://medicaid.gov/dq-atlas for more information about data quality
+assessment methods. Cells with a value of “DQ” indicate that data were
+suppressed due to unusable data.     Some cells have a value of “DS”. This
+indicates that data were suppressed for confidentiality reasons because the
+group included fewer than 11 beneficiaries.
+
+110: Beneficiaries who could benefit from integrated care, 2017-2020
+This table presents three populations of beneficiaries who could benefit from
+different levels of integrated care, 2017-2020: (1) beneficiaries who received
+services for a behavioral health (BH) condition; (2) beneficiaries who received
+services for a behavioral health condition who also received services for at
+least one of a number of select physical health (PH) conditions (a subset of
+population 1); and (3) beneficiaries prescribed medications for substance use
+disorders who do not have a medical claim for a behavioral health condition (a
+subset of population 1).    Some states have serious data quality issues, making
+the data unusable for identifying this population. To assess data quality,
+analysts used measures featured in the DQ Atlas. Data for a state are considered
+unusable based on DQ Atlas thresholds for the following topics: Total Medicaid
+and CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Claims Volume - IP,
+Diagnosis Code - IP, Diagnosis Code - OT, Procedure Codes - OT Professional,
+Gender, Age, Zip code, Race and ethnicity, Eligibility group code, Enrollment in
+CMC Plans.     Data from Maryland, Tennessee, and Utah are omitted for the
+tables due to data quality concerns. Maryland was excluded in 2017 due to
+unusable diagnosis codes in the IP file and the OT file. Tennessee was excluded
+due to unusable diagnosis codes in the IP file in 2017 - 2019. Utah was excluded
+due to unusable procedure codes on OT professional claims in 2017 - 2020. In
+addition, states with a high data quality concern on one or more measures are
+noted in the table in the "Data Quality" column. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.
+
+111: Number and rate of SMM among Medicaid- and CHIP-covered deliveries, 2017 - 2020
+This table presents the number of beneficiaries with a delivery, the number of
+beneficiaries with any SMM condition, and the rate of SMM conditions per 10,000
+deliveries, 2017 - 2020.    These metrics are based on data in the T-MSIS
+Analytic Files (TAF). Some states have serious data quality issues, making the
+data unusable for identifying this population. Data for a state are considered
+unusable based on DQ Atlas thresholds for the following topics: Total Medicaid
+and CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Claims Volume - IP,
+Diagnosis Code - IP, Diagnosis Code - OT, Procedure Codes - OT Professional.
+Cells with a value of “DQ” indicate that data were suppressed due to unusable
+data.     Data from Maryland, Tennessee, and Utah are omitted from the tables
+due to data quality concerns. Maryland was excluded in 2017 due to unusable
+diagnosis codes in the IP file and the OT file. Tennessee was excluded due to
+unusable diagnosis codes in the IP file in 2017 - 2019. Utah was excluded due to
+unusable procedure codes on OT professional claims in 2017 - 2020. In addition,
+states with a high data quality concern on one or more measures are noted in the
+table in the "Data Quality" column. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.     Some cells have a value of “DS”. This indicates that data were
+suppressed for confidentiality reasons because the group included fewer than 11
+beneficiaries.
+
+112: Number and rate of NAS per 1,000 births in newborns whose deliveries were covered by Medicaid or CHIP, 2017 - 2020
+This table presents the number of beneficiaries with NAS and the rate of
+neonatal abstinence syndrome per 1,000 newborns whose deliveries were covered by
+Medicaid or CHIP, 2017 - 2020.    These metrics are based on data in the T-MSIS
+Analytic Files (TAF). Some states have serious data quality issues, making the
+data unusable for identifying this population. Data for a state are considered
+unusable based on DQ Atlas thresholds for the following topics: Total Medicaid
+and CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Claims Volume - IP,
+Diagnosis Code - IP, Diagnosis Code - OT, Procedure Codes - OT Professional.
+Cells with a value of “DQ” indicate that data were suppressed due to unusable
+data.     Data from Maryland, Tennessee, and Utah are omitted due to data
+quality concerns. Maryland was excluded in 2017 due to unusable diagnosis codes
+in the IP file and the OT file. Tennessee was excluded due to unusable diagnosis
+codes in the IP file in 2017 - 2019. Utah was excluded due to unusable procedure
+codes on OT professional claims in 2017 - 2020. In addition, states with a high
+data quality concern on one or more measures are noted in the table in the "Data
+Quality" column. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas
+for more information about data quality assessment methods.     Some cells have
+a value of “DS”. This indicates that data were suppressed for confidentiality
+reasons because the group included fewer than 11 beneficiaries.
+
+113: Beneficiaries receiving a behavioral health service by behavioral health condition, 2017-2020
+This table presents beneficiaries who received at least one behavioral health
+service, by behavioral health condition, 2017-2020.    Some states have serious
+data quality issues, making the data unusable for identifying this population.
+To assess data quality, analysts used measures featured in the DQ Atlas. Data
+for a state are considered unusable based on DQ Atlas thresholds for the
+following topics: Total Medicaid and CHIP Enrollment, Claims Volume - IP, Claims
+Volume - OT, Claims Volume - IP, Diagnosis Code - IP, Diagnosis Code - OT,
+Procedure Codes - OT Professional, Gender, Age, Zip code, Race and ethnicity,
+Eligibility group code, Enrollment in CMC Plans.     Data from Maryland,
+Tennessee, and Utah are omitted for the tables due to data quality concerns.
+Maryland was excluded in 2017 due to unusable diagnosis codes in the IP file and
+the OT file. Tennessee was excluded due to unusable diagnosis codes in the IP
+file in 2017 - 2019. Utah was excluded due to unusable procedure codes on OT
+professional claims in 2017 - 2020. In addition, states with a high data quality
+concern on one or more measures are noted in the table in the "Data Quality"
+column. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.     Some cells have a value
+of “DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+114: Beneficiaries receiving a physical hlth serv among beneficiaries receiving a mental hlth serv, by physical hlth cond, 2017-2020
+This table presents beneficiaries who received a service for a physical health
+condition among beneficiaries who received a service for a mental health
+condition, by physical health condition, 2017-2020.    Some states have serious
+data quality issues, making the data unusable for identifying this population.
+To assess data quality, analysts used measures featured in the DQ Atlas. Data
+for a state are considered unusable based on DQ Atlas thresholds for the
+following topics: Total Medicaid and CHIP Enrollment, Claims Volume - IP, Claims
+Volume - OT, Claims Volume - IP, Diagnosis Code - IP, Diagnosis Code - OT,
+Procedure Codes - OT Professional, Gender, Age, Zip code, Race and ethnicity,
+Eligibility group code, Enrollment in CMC Plans.     Data from Maryland,
+Tennessee, and Utah are omitted for the tables due to data quality concerns.
+Maryland was excluded in 2017 due to unusable diagnosis codes in the IP file and
+the OT file. Tennessee was excluded due to unusable diagnosis codes in the IP
+file in 2017 - 2019. Utah was excluded due to unusable procedure codes on OT
+professional claims in 2017 - 2020. In addition, states with a high data quality
+concern on one or more measures are noted in the table in the "Data Quality"
+column. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.     Some cells have a value
+of “DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+115: Beneficiaries receiving a physical health service among beneficiaries receiving a SUD service by physical health cond, 2017-2020
+This table presents beneficiaries who received a service for a physical health
+condition among beneficiaries who received a service for a substance use
+disorder, by physical health condition, 2017-2020.    Some states have serious
+data quality issues, making the data unusable for identifying this population.
+To assess data quality, analysts used measures featured in the DQ Atlas. Data
+for a state are considered unusable based on DQ Atlas thresholds for the
+following topics: Total Medicaid and CHIP Enrollment, Claims Volume - IP, Claims
+Volume - OT, Claims Volume - IP, Diagnosis Code - IP, Diagnosis Code - OT,
+Procedure Codes - OT Professional, Gender, Age, Zip code, Race and ethnicity,
+Eligibility group code, Enrollment in CMC Plans.     Data from Maryland,
+Tennessee, and Utah are omitted for the tables due to data quality concerns.
+Maryland was excluded in 2017 due to unusable diagnosis codes in the IP file and
+the OT file. Tennessee was excluded due to unusable diagnosis codes in the IP
+file in 2017 - 2019. Utah was excluded due to unusable procedure codes on OT
+professional claims in 2017 - 2020. In addition, states with a high data quality
+concern on one or more measures are noted in the table in the "Data Quality"
+column. Please refer to the DQ Atlas at http://medicaid.gov/dq-atlas for more
+information about data quality assessment methods.     Some cells have a value
+of “DS”. This indicates that data were suppressed for confidentiality reasons
+because the group included fewer than 11 beneficiaries.
+
+116: Number of pregnant and postpartum Medicaid and CHIP beneficiaries, 2017-2020
+This table presents the number of pregnant and postpartum Medicaid and CHIP
+beneficiaries, 2017-2020. It includes (1) the number and percentage of
+beneficiaries ever pregnant in the year; (2) the number and percentage of live
+births in the year; (3) the number and percentage of miscarriages, stillbirths,
+or terminations in the year; and (4) the number and percentage of births with an
+unknown delivery outcome in the year.    These metrics are based on data in the
+T-MSIS Analytic Files (TAF). Some states have serious data quality issues,
+making the data unusable for identifying this population. Data for a state are
+considered unusable based on DQ Atlas thresholds for the following topics: Total
+Medicaid and CHIP Enrollment, Claims Volume - IP, Claims Volume - OT, Claims
+Volume - IP, Diagnosis Code - IP, Diagnosis Code - OT, Procedure Codes - OT
+Professional. Cells with a value of “DQ” indicate that data were suppressed due
+to unusable data.     Data from Maryland, Tennessee, and Utah are omitted from
+the tables due to data quality concerns. Maryland was excluded in 2017 due to
+unusable diagnosis codes in the IP file and the OT file. Tennessee was excluded
+due to unusable diagnosis codes in the IP file in 2017 - 2019. Utah was excluded
+due to unusable procedure codes on OT professional claims in 2017 - 2020. In
+addition, states with a high data quality concern on one or more measures are
+noted in the table in the "Data Quality" column. Please refer to the DQ Atlas at
+http://medicaid.gov/dq-atlas for more information about data quality assessment
+methods.     Some cells have a value of “DS”. This indicates that data were
+suppressed for confidentiality reasons because the group included fewer than 11
+beneficiaries.
+
+117: Rate of NAS per 1,000 births in newborns whose deliveries were covered by Medicaid or CHIP, 2017 - 2019
+This table presents the rate of neonatal abstinence syndrome per 1,000 newborns
+whose deliveries were covered by Medicaid or CHIP, 2017 - 2019.    Some states
+have serious data quality issues, making the data unusable for identifying this
+population. Data for a state are considered unusable based on DQ Atlas
+thresholds for the following topics: Total Medicaid and CHIP Enrollment, Claims
+Volume - IP, Claims Volume - OT, Claims Volume - IP, Diagnosis Code - IP,
+Diagnosis Code - OT, Procedure Codes - OT Professional. Data from Maryland,
+Tennessee, and Utah are omitted for the tables due to data quality concerns.
+Values for Maryland were excluded due to unusuable diagnosis codes in the IP
+file and the OT file in 2017. Tennessee was excluded due to unusable diagnosis
+codes in the IP file in 2017 - 2019. Utah was excluded due to unusable procedure
+codes on OT professional claims in 2017 - 2019.  In addition, states with a high
+data quality concern on one or more measures are noted in the table with an
+asterisk (*).     Please refer to the DQ Atlas for more information about data
+quality assessment methods.
+
+118: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-13-to-2023-03-19
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+119: Scorecard pillar
+This is a dataset created for use by the Scorecard website, and is not intended
+for use outside that application.
+
+120: Scorecard measure
+This is a dataset created for use by the Scorecard website, and is not intended
+for use outside that application.
+
+121: Scorecard measure
+This is a dataset created for use by the Scorecard website, and is not intended
+for use outside that application.
+
+122: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-20-to-2023-03-26
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+123: Scorecard measure
+This is a dataset created for use by the Scorecard website, and is not intended
+for use outside that application.
+
+124: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-27-to-2023-04-02
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+125: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-03-to-2023-04-09
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+126: Scorecard example_small_source_data_file
+I am an update
+
+127: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-10-to-2023-04-16
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+128: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-17-to-2023-04-23
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+129: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-24-to-2023-04-30
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+130: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-01-to-2023-05-07
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+131: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-08-to-2023-05-14
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+132: Scorecard TAG v0.2.4-1 (etl_test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+133: Scorecard TAG v0.2.4-1 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+134: Scorecard TAG v0.2.4-1 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+135: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-15-to-2023-05-21
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+136: Scorecard TAG v0.3.0-1 (etl_test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+137: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-22-to-2023-05-28
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+138: Scorecard TAG v0.2.4-1 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+139: Scorecard TAG v0.3.0-1 (etl_test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+140: Scorecard TAG v0.2.4-1 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+141: implAuto_files_allDownloads
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+142: featAuto_footnotes
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+143: featAuto_measure_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+144: featAuto_topicArea_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+145: featAuto_tafVersion
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+146: featAuto_states_measures_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+147: featAuto_states_measures
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+148: featAuto_states
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+149: featAuto_measure_compare_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+150: featAuto_measure_compare
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+151: featAuto_measure_backgroundAndMethods
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+152: featAuto_measure_allStates_downloadLink
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+153: featAuto_measure_allStates
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+154: featAuto_measureSearchInfo
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+155: featAuto_map
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+156: featAuto_files_allDownloadsSSBtn
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+157: featAuto_files_allDownloads
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+158: featAuto_fileType_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+159: featAuto_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+160: Scorecard TAG v0.3.1-1 (etl_test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+161: prodAuto_files_allDownloads
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+162: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-29-to-2023-06-04
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+163: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-05-to-2023-06-11
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+164: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-19-to-2023-06-25
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+165: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-12-to-2023-06-18
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+166: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-26-to-2023-07-02
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+167: Pricing Comparison for Blood Disorder Treatments (Pricing as of 6/1/2023)
+The Reference Document link for the downable Blood Disorder Treatment
+Spreadsheet can be accessed below under the Additional Information table under
+Related Documents.
+
+168: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-03-to-2023-07-09
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+169: Test 0712
+test
+
+170: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-10-to-2023-07-16
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+171: Managed Care Enrollment by Program and Population (Duals)
+The Medicaid Managed Care Enrollment Report profiles enrollment statistics on
+Medicaid managed care programs on a plan-specific level. The managed care
+enrollment statistics include enrollees receiving comprehensive benefits and
+limited benefits and are point-in-time counts.    1. Because Medicaid
+beneficiaries may be enrolled concurrently in more than one type of managed care
+program (e.g., a Comprehensive MCO and a BHO), users should not sum enrollment
+across all program types, since the total would count individuals more than once
+and, in some states, exceed the actual number of Medicaid enrollees.
+2. Comprehensive MCOs cover acute, primary, and specialty medical care services;
+they may also cover behavioral health, long-term services and supports, and
+other benefits in some states. Limited benefit managed care programs, including
+MLTSS only, BHO, Dental, Transportation, and Other cover a narrower set of
+services.                                                                 3. The
+indicated territory was not able to supply data for this report. The Northern
+Mariana Islands reported that they have no Medicaid managed care enrollment, but
+they did not report total Medicaid enrollees.
+"--" indicates states that do not operates programs of a given type. 0 signifies
+that a state operated a program of this type in 2014, but it ended before July
+1, 2014, or began after that date.
+
+172: Share of Medicaid Enrollees in Managed Care
+The Share of Medicaid Enrollees in any Managed Care and in Comprehensive Managed
+CaAre profiles state-level enrollment statistics (numbers and percentages) of
+total Medicaid enrollees in any type of managed care as well as those enrolled
+specifically in comprehensive managed care programs. The report provides managed
+care enrollment by state with all 50 states, the District of Columbia and the US
+territories are represented in these data.
+
+173: Managed Care Enrollment Summary
+The Medicaid Managed Care Enrollment Report profiles enrollment statistics on
+Medicaid managed care programs on a plan-specific level. The managed care
+enrollment statistics include enrollees receiving comprehensive benefits and
+limited benefits and are point-in-time counts.    1. Total Medicaid Enrollees
+represents an unduplicated count of all beneficiaries in FFS and any type of
+managed care, including Medicaid-only and Medicare-Medicaid ("dual") enrollees.
+2. Total Medicaid enrollment in Any Type of Managed Care represents an
+unduplicated count of beneficiaries enrolled in any Medicaid managed care
+program, including comprehensive MCOs, limited benefit MCOs, and PCCMs.
+3. Medicaid Enrollment in Comprehensive Managed Care represents an unduplicated
+count of Medicaid beneficiaries enrolled in a managed care plan that provides
+comprehensive benefits (acute, primary care, specialty, and any other), as well
+as PACE programs. It excludes beneficiaries who are enrolled in a Financial
+Alignment Initiative Medicare-Medicaid Plan as their only form of managed care.
+4. Medicaid Newly Eligible Adults Enrolled in Comprehensive MCOs represents
+individuals who are enrolled in comprehensive MCOs and are low-income adults,
+with or without dependent children, newly eligible for Medicaid under ACA
+Section VIII, and not covered under a waiver or other authority prior to 2014.
+
+174: Managed Care Enrollment by Program and Plan
+The Medicaid Managed Care Enrollment Report profiles enrollment statistics on
+Medicaid managed care programs on a plan-specific level. The managed care
+enrollment statistics include enrollees receiving comprehensive benefits and
+limited benefits and are point-in-time counts.    1. The information in this
+table was provided by state officials. In some cases, program or plan names in
+this table differ from those used in publicly available sources. Questions
+regarding state-specific information in this table should be directed to
+State/territorial Medicaid officials.
+
+175: Managed Care Features By Enrollment Population
+Number of Managed Care Programs Enrolling Certain Populations on a Mandatory or
+Voluntary Basis at any point in 2016
+
+176: Managed Care Features by QA and Performance Incentive
+Number of Managed Care Program Types, by Quality Assurance Requirements,
+Performance Incentives, and Provider Value-Based Purchasing Status, at any point
+in 2016
+
+177: 2021 Managed Care Programs By State
+Dataset.
+
+178: Managed Care Enrollment by Program and Population (All)
+The Medicaid Managed Care Enrollment Report profiles enrollment statistics on
+Medicaid managed care programs on a plan-specific level. The managed care
+enrollment statistics include enrollees receiving comprehensive benefits and
+limited benefits and are point-in-time counts.    1. Because Medicaid
+beneficiaries may be enrolled concurrently in more than one type of managed care
+program (e.g., a Comprehensive MCO and a BHO), users should not sum enrollment
+across all program types, since the total would count individuals more than once
+and, in some states, exceed the actual number of Medicaid enrollees.    2.
+Comprehensive MCOs cover acute, primary, and specialty medical care services;
+they may also cover behavioral health, long-term services and supports, and
+other benefits in some states. Limited benefit managed care programs, including
+PCCM, MLTSS only, BHO, Dental, Transportation, and Other cover a narrower set of
+services.     "--" indicates states that do not operates programs of a given
+type. 0 signifies that a state operated a program of this type in 2014, but it
+ended before July 1, 2014, or began after that date.
+
+179: Managed Long Term Services and Supports (MLTSS) Enrollees
+1. Enrollment includes both Medicaid-only and Medicare-Medicaid (“dual”)
+enrollees. For both types of enrollees, Medicaid covers LTSS. For dual
+enrollees, Medicaid may also cover Medicare cost-sharing for acute, primary
+care, and specialty services covered by Medicare, and other non-LTSS services
+that are not covered by Medicare.                                       2. Some
+comprehensive managed care programs enroll beneficiaries who may be at risk of
+needing LTSS but do not receive any LTSS. These counts only include individuals
+that receive LTSS. Moreover, states differ in their ability to report
+individuals who use MLTSS versus those who are enrolled (and may or may not be
+using LTSS). This table reports MLTSS users unless otherwise noted.
+3. Comprehensive Managed Care Including LTSS does not include PACE programs.
+4. MLTSS Only programs cover LTSS under capitation; acute, primary, and
+specialty care services for these enrollees may be covered by another Medicaid
+MCO, Medicaid FFS, or by Medicare for dual enrollees. These data include states
+that provide MLTSS plus other benefits in a package that does not include
+inpatient medical care.                                          5. The
+indicated territory was not able to supply data for this report. The Northern
+Mariana Islands reported that they have no Medicaid managed care enrollment, but
+they did not report total Medicaid enrollees.  6. Enrollment and user counts
+include both Medicaid-only enrollees and dually eligible individuals. For both
+types of enrollees, Medicaid covers LTSS. For dually eligible individuals,
+Medicaid may also cover Medicare cost-sharing for acute, primary care, and
+specialty services covered by Medicare, and other non-LTSS services that are not
+covered by Medicare.
+
+180: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-17-to-2023-07-23
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+181: Scorecard Example
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+182: 2017 Managed Care Programs by State
+Provides program names, program features, population enrolled, benefits covered,
+quality assurance and improvement, performance incentives, provider value-based
+purchasing, participating plans, regions served and program notes.
+
+183: category_tiles
+Template Dataset: category_tiles
+
+184: Presumptive Eligibility for Medicaid and CHIP Coverage
+Health care providers and Head Start programs can play a major role in finding
+and enrolling uninsured children through presumptive eligibility. States can
+authorize “qualified entities” -- health care providers, community-based
+organizations, and schools, among others -- to screen for Medicaid and CHIP
+eligibility and immediately enroll children who appear to be eligible.
+Presumptive eligibility allows children to get access to Medicaid or CHIP
+services without having to wait for their application to be fully processed.
+Qualified entities can also help families gather the documents needed to
+complete the full application process, thereby reducing the administrative
+burden on States to obtain missing information.
+
+185: Managed Care Programs by State
+Provides program names, program features, population enrolled, benefits covered,
+quality assurance and improvement, performance incentives, provider value-based
+purchasing, participating plans, regions served and program notes.
+
+186: Disproportionate Share Hospital (DSH) Payments - Annual Reporting Requirements
+Federal law requires that state Medicaid programs make Disproportionate Share
+Hospital (DSH) payments to qualifying hospitals that serve a large number of
+Medicaid and uninsured individuals. State-specific annual DSH reports are posted
+as submitted by states based on their availability.    For more information,
+visit https://www.medicaid.gov/medicaid/finance/dsh/index.html.
+
+187: Express Lane Eligibility for Medicaid and CHIP Coverage
+States may rely on eligibility information from "Express Lane" agency programs
+to streamline and simplify enrollment and renewal in Medicaid and CHIP. Express
+Lane agencies may include Supplemental Nutrition Assistance Program (SNAP),
+School Lunch programs, Temporary Assistance for Needy Families, Head Start, and
+the Women, infant, and children's program (WIC) , among others. States can also
+use state income tax data to determine Medicaid and CHIP eligibility for
+children.
+
+188: Continuous Eligibility for Medicaid and CHIP Coverage
+States have the option to provide children with 12 months of continuous coverage
+through Medicaid and CHIP, even if the family experiences a change in income
+during the year. Continuous eligibility is a valuable tool that helps States
+ensure that children stay enrolled in the health coverage for which they are
+eligible and have consistent access to needed health care services.
+
+189: Medicaid Financial Management Data – National Totals
+This dataset reports summary state-by-state total expenditures by program for
+the Medicaid Program, Medicaid Administration and CHIP programs.  These state
+expenditures are tracked through the automated Medicaid Budget and Expenditure
+System/State Children's Health Insurance Program Budget and Expenditure System
+(MBES/CBES).    For more information, visit
+https://medicaid.gov/medicaid/finance/state-expenditure-reporting/expenditure-
+reports/index.html.
+
+190: Medicaid Financial Management Data
+This dataset reports summary state-by-state total expenditures by program for
+the Medicaid Program, Medicaid Administration and CHIP programs. These state
+expenditures are tracked through the automated Medicaid Budget and Expenditure
+System/State Children's Health Insurance Program Budget and Expenditure System
+(MBES/CBES).    For more information, visit
+https://medicaid.gov/medicaid/finance/state-expenditure-reporting/expenditure-
+reports/index.html.
+
+191: featured_stories
+Template Dataset: featured_stories
+
+192: NAM CAHPS 2014 Public Use
+In fall 2014, the Center for Medicaid and CHIP Services (CMCS) conducted a
+Nationwide Adult Medicaid (NAM) Consumer Assessment of Healthcare Providers and
+Systems (CAHPS) survey of Medicaid enrollees to attain national and state-by-
+state measures of access, barriers to care, and experiences with care across
+delivery systems and major population subgroups. The survey interviewed a
+representative sample of adults ages 18 and older enrolled in Medicaid during
+October through December 2013.  Additional information, including a data
+dictionary and analysis guidance and downloadable SAS files are available on the
+<a href="https://www.medicaid.gov/medicaid/quality-of-care/performance-
+measurement/adult-cahps/index.html">NAM CAHPS</a> webpage. Please note that all
+analyses must account for the survey’s sample design and use weights and strata.
+Sample code is available in on the <a
+href="https://www.medicaid.gov/medicaid/quality-of-care/performance-
+measurement/adult-cahps/index.html">NAM CAHPS</a> webpage.
+
+193: Medicaid and CHIP Eligibility Levels
+The following table provides eligibility levels in each state for key coverage
+groups that use Modified Adjusted Gross Income (MAGI), as of April 1, 2018. The
+data represent the principal, but not all, MAGI coverage groups in Medicaid, the
+Children’s Health Insurance Program (CHIP), and the Basic Health Program (BHP).
+All income standards are expressed as a percentage of the federal poverty level
+(FPL). The MAGI-based rules generally include adjusting an individual’s income
+by an amount equivalent to a 5% FPL disregard. Other eligibility criteria also
+apply, such as citizenship, immigration status, and state residency.    For more
+information, see:   https://www.medicaid.gov/medicaid/program-
+information/medicaid-and-chip-eligibility-levels/index.html
+
+194: NADAC (National Average Drug Acquisition Cost) 2013
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+195: NADAC (National Average Drug Acquisition Cost) 2019
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+196: NADAC (National Average Drug Acquisition Cost) 2020
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+197: NADAC (National Average Drug Acquisition Cost) 2017
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+198: NADAC (National Average Drug Acquisition Cost) 2016
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+199: NADAC (National Average Drug Acquisition Cost) 2015
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+200: NADAC (National Average Drug Acquisition Cost) 2014
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+201: NADAC (National Average Drug Acquisition Cost) 2018
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+202: wallpaper_banner
+Template Dataset: wallpaper_banner
+
+203: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-24-to-2023-07-30
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+204: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-31-to-2023-08-06
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+205: Scorecard PILLAR v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+206: Scorecard STATE v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+207: Scorecard MEASURE_VALUE v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+208: Scorecard MEASURE v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+209: Scorecard FILTERS v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+210: Scorecard VERSION v0.3.58-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+211: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-07-to-2023-08-13
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+212: devAuto_files_allDownloads
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+213: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-21-to-2023-08-27
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+214: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-14-to-2023-08-20
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+215: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-28-to-2023-09-03
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+216: 2022 Child and Adult Health Care Quality Measures Quality
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2022 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2022
+reporting cycle. Dataset revised September 2023. For more information, see the
+Children's Health Care Quality Measures and Adult Health Care Quality Measures
+webpages.
+
+217: 2019 Child and Adult Health Care Quality Measures Quality
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2019 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2019
+reporting cycle. Dataset revised October 2020. For more information, see the
+Children's Health Care Quality Measures and Adult Health Care Quality Measures
+webpages.
+
+218: 2020 Child and Adult Health Care Quality Measures Quality
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2020 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2020
+reporting cycle. Dataset revised September 2021. For more information, see the
+Children's Health Care Quality Measures and Adult Health Care Quality Measures
+webpages.
+
+219: 2021 Child and Adult Health Care Quality Measures Quality
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2021 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2021
+reporting cycle. Dataset revised September 2023. For more information, see the
+Children's Health Care Quality Measures and Adult Health Care Quality Measures
+webpages.
+
+220: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-04-to-2023-09-10
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+221: 2014 Child and Adult Health Care Quality Measures
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2014 reporting.  Dataset
+contains both child and adult measures. Source: Mathematica analysis of FFY 2014
+Child and Adult CARTS reports as of May 8, 2015, as published in the 2015
+Secretary's Reports on the Quality of Care in Medicaid/CHIP.
+
+222: 2016 Child and Adult Health Care Quality Measures
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2016 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2016
+reporting cycle. For more information, see the <a
+href="https://www.medicaid.gov/medicaid/quality-of-care/performance-
+measurement/child-core-set/index.html">Children's Health Care Quality
+Measures</a> and <a href="https://www.medicaid.gov/medicaid/quality-of-
+care/performance-measurement/adult-core-set/index.html">Adult Health Care
+Quality Measures</a> webpages.
+
+223: 2015 Child and Adult Health Care Quality Measures
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2015 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2015
+reporting cycle. For more information, see the <a
+href="https://www.medicaid.gov/medicaid/quality-of-care/performance-
+measurement/child-core-set/index.html">Children's Health Care Quality
+Measures</a> and <a href="https://www.medicaid.gov/medicaid/quality-of-
+care/performance-measurement/adult-core-set/index.html">Adult Health Care
+Quality Measures</a> webpages.
+
+224: 2017 Child and Adult Health Care Quality Measures
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2017 reporting.  Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2017
+reporting cycle. For more information, see the <a
+href="https://www.medicaid.gov/medicaid/quality-of-care/performance-
+measurement/child-core-set/index.html">Children's Health Care Quality
+Measures</a> and <a href="https://www.medicaid.gov/medicaid/quality-of-
+care/performance-measurement/adult-core-set/index.html">Adult Health Care
+Quality Measures</a> webpages.
+
+225: 2018 Child and Adult Health Care Quality Measures
+Performance rates on frequently reported health care quality measures in the CMS
+Medicaid/CHIP Child and Adult Core Sets, for FFY 2018 reporting.    Source:
+Mathematica analysis of MACPro and Form CMS-416 reports for the FFY 2018
+reporting cycle. For more information, see the Children's Health Care Quality
+Measures and Adult Health Care Quality Measures webpages.
+
+226: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-11-to-2023-09-17
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+227: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-18-to-2023-09-24
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+228: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-25-to-2023-10-01
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+229: Exclusive Pediatric Drugs
+Exclusively Pediatric (EP) designation allows for a minimum rebate percentage of
+17.1 percent of Average Manufacturer Price (AMP) for single source and innovator
+multiple source drugs.
+
+230: Clotting Factor Drug Report
+Clotting Factor (CF) designation allows for a minimum rebate percentage of 17.1
+percent of Average Manufacturer Price (AMP) for single source and innovator
+multiple source drugs.
+
+231: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-02-to-2023-10-08
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+232: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-09-to-2023-10-15
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+233: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-16-to-2023-10-22
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+234: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-23-to-2023-10-29
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+235: Medicaid Enrollment - New Adult Group
+Total Medicaid Enrollees - VIII Group Break Out Report Reported on the CMS-64
+The enrollment information is a state-reported count of unduplicated individuals
+enrolled in the state’s Medicaid program at any time during each month in the
+quarterly reporting period. The enrollment data identifies the total number of
+Medicaid enrollees and, for states that have expanded Medicaid, provides
+specific counts for the number of individuals enrolled in the new adult
+eligibility group, also referred to as the “VIII Group”. The VIII Group is only
+applicable for states that have expanded their Medicaid programs by adopting the
+VIII Group. This data includes state-by-state data for this population as well
+as a count of individuals whom the state has determined are newly eligible for
+Medicaid. All 50 states, the District of Columbia and the US territories are
+represented in these data.    Notes:  1. “VIII GROUP” is also known as the “New
+Adult Group.”  2. The VIII Group is only applicable for states that have
+expanded their Medicaid programs by adopting the VIII Group. VIII Group
+enrollment information for the states that have not expanded their Medicaid
+program is noted as “N/A.”
+
+236: Drug Manufacturer Contacts
+Drug Manufacturer Contact Information contains Optional Effective Date,
+Termination Date (if applicable), and Legal, Invoice and Technical Contact
+information for each drug company participating in the Medicaid Drug Rebate
+Program. For more information see:
+https://www.medicaid.gov/medicaid/prescription-drugs/medicaid-drug-rebate-
+program/index.html
+
+237: Medicaid Drug Rebate Program State Contact Information
+Contains each state's policy, rebate and technical contact information for the
+Medicaid Drug Rebate Program. Updated quarterly.
+
+238: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-30-to-2023-11-05
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+239: Drug Products in the Medicaid Drug Rebate Program
+Active drugs that have been reported by participating drug manufacturers under
+the Medicaid Drug Rebate Program. All drugs are identified by National Drug Code
+(NDC), unit type, units per package size, product name, Food and Drug
+Administration (FDA) approval date, the date the drug entered the market, plus
+indicators to show whether the drug is an innovator or non-innovator drug;
+whether it is available by prescription or over-the-counter (OTC); the FDA
+therapeutic equivalency code; and the Drug Efficacy Study Implementation (DESI)
+rating and termination date. Each quarter posted represents a snapshot of data
+in the system at that time and is not updated by subsequent changes.
+
+240: Drug AMP Reporting - Quarterly
+Drugs that have been reported under the Medicaid Drug Rebate Program along with
+an indication of whether or not the required Average Manufacturer Price (AMP)
+was reported for each drug. All drugs are identified in the file by the 11-digit
+National Drug Code, product name, labeler name, and reported (R) or not reported
+(NR).
+
+241: Test456
+Test
+
+242: Division of Pharmacy Releases Index dataset
+Division of Pharmacy Releases Index dataset. The list of keywords for this
+dataset can be found in Additional information table below.
+
+243: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-06-to-2023-11-12
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+244: Scorecard PILLAR v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+245: Scorecard STATE v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+246: Scorecard MEASURE_VALUE v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+247: Scorecard MEASURE v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+248: Scorecard FILTERS v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+249: Scorecard VERSION v1.0.6 (dev)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+250: Scorecard PILLAR v1.0.6 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+251: Scorecard STATE v1.0.6 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+252: Scorecard MEASURE_VALUE v1.0.6 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+253: Scorecard MEASURE v1.0.6 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+254: Scorecard FILTERS v1.0.6 (dev0)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+255: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-13-to-2023-11-19
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+256: Medicaid CMS-64 New Adult Group Expenditures
+This dataset reports summary level expenditure data associated with the new
+adult group established under the Affordable Care Act. These state expenditures
+are reported through the federal Medicaid Budget and Expenditure System (MBES).
+Notes:  1. “VIII GROUP” is also known as the “New Adult Group.”  2. The VIII
+Group is only applicable for states that have expanded their Medicaid programs
+by adopting the VIII Group. VIII Group expenditure information  for the states
+that have not expanded their Medicaid program is noted as “N/A.”  3. States that
+have reported “0” either have no expenditures for that reporting category or
+have not yet reported expenditures for that category.  4. MCHIP expenditures are
+not included in the All Medical Assistance Expenditures.
+
+257: Scorecard PILLAR v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+258: Scorecard STATE v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+259: Scorecard MEASURE_VALUE v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+260: Scorecard MEASURE v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+261: Scorecard FILTERS v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+262: Scorecard VERSION v1.0.6 (impl)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+263: Scorecard PILLAR v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+264: Scorecard STATE v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+265: Scorecard MEASURE_VALUE v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+266: Scorecard MEASURE v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+267: Scorecard FILTERS v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+268: Scorecard VERSION v1.0.6 (prod)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+269: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-20-to-2023-11-26
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+270: devAuto_footnotes
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+271: devAuto_states_measures_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+272: devAuto_measure_compare
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+273: devAuto_measure_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+274: devAuto_states
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+275: devAuto_measure_compare_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+276: devAuto_tafVersion
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+277: devAuto_files_allDownloadsSSBtn
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+278: devAuto_fileType_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+279: devAuto_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+280: devAuto_measureSearchInfo
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+281: devAuto_map
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+282: devAuto_topicArea_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+283: devAuto_states_measures
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+284: devAuto_measure_backgroundAndMethods
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+285: devAuto_measure_allStates_downloadLink
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+286: devAuto_measure_allStates
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+287: implAuto_topicArea_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+288: implAuto_tafVersion
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+289: implAuto_states_measures_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+290: implAuto_states_measures
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+291: implAuto_states
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+292: implAuto_measure_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+293: implAuto_measure_compare_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+294: implAuto_measure_compare
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+295: implAuto_measure_backgroundAndMethods
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+296: implAuto_measure_allStates_downloadLink
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+297: implAuto_measure_allStates
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+298: implAuto_measureSearchInfo
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+299: implAuto_footnotes
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+300: implAuto_files_allDownloadsSSBtn
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+301: implAuto_fileType_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+302: implAuto_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+303: implAuto_map
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+304: prodAuto_topicArea_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+305: prodAuto_tafVersion
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+306: prodAuto_states_measures_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+307: prodAuto_states_measures
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+308: prodAuto_states
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+309: prodAuto_measure_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+310: prodAuto_measure_compare_download
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+311: prodAuto_measure_compare
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+312: prodAuto_measure_backgroundAndMethods
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+313: prodAuto_measure_allStates_downloadLink
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+314: prodAuto_measure_allStates
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+315: prodAuto_measureSearchInfo
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+316: prodAuto_map
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+317: prodAuto_footnotes
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+318: prodAuto_files_allDownloadsSSBtn
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+319: prodAuto_fileType_measureDisplayGroups
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+320: prodAuto_concernLevel
+This is a dataset created for use by the DQ Atlas website, and is not intended
+for use outside that application. For more information on the DQ Atlas and the
+information contained in this dataset see https://www.medicaid.gov/dq-
+atlas/welcome
+
+321: ACA Federal Upper Limits
+Affordable Care Act Federal Upper Limits (FUL) based on the weighted average of
+the most recently reported monthly average manufacturer price (AMP) for
+pharmaceutically and therapeutically equivalent multiple source drug products
+that are available for purchase by retail community pharmacies on a nationwide
+basis.
+
+322: Scorecard PILLAR v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+323: Scorecard STATE v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+324: Scorecard MEASURE_VALUE v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+325: Scorecard MEASURE v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+326: Scorecard FILTERS v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+327: Scorecard VERSION v1.0.7 (etl-test)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+328: Medicaid and CHIP CAA Reporting Metrics
+<p>State-reported data on Medicaid and CHIP eligibility renewals conducted
+during the reporting period and call center operations</p>
+<p><b>Sources:</b>(1) March and April 2023 state Medicaid and CHIP Renewal and
+Termination Data for the Unwinding Data Report as of June 13, 2023. Florida's
+March and April 2023 Medicaid and CHIP Renewal and Termination Data for the
+Unwinding Data Report as of June 5, 2023. May 2023 state Medicaid and CHIP
+Renewal and Termination Data for the Unwinding Data Report as of July 12, 2023.
+Florida's May 2023 Medicaid and CHIP Renewal and Termination Data for the
+Unwinding Data Report as of July 3, 2023. June 2023 state Medicaid and CHIP
+Renewal and Termination Data for the Unwinding Data Report as of August 16,
+2023. Florida's June 2023 Medicaid and CHIP Renewal and Termination Data for the
+Unwinding Data Report as of July 31, 2023. July 2023 state Medicaid and CHIP
+Renewal and Termination Data for the Unwinding Data Report as of September 12,
+2023. August 2023 state Medicaid and CHIP Renewal and Termination Data for the
+Unwinding Data Report as of October 10, 2023. (2) Call Center Data from the
+Medicaid and CHIP Eligibility and Enrollment Performance Indicator Data as of
+October 23, 2023.</p>         <p><b>Notes:</b>For all states, data may be
+affected by mitigation strategies in place, such as those related to ex parte
+functionality. States report renewal outcomes for a cohort in the month renewals
+are scheduled for completion. Hawaii and Vermont experienced a natural disaster,
+and the number of renewals initiated and completed in the reporting period were
+impacted due to the disaster response efforts in the month of August. South
+Carolina does not have renewal outcomes to report in the month of July.
+Massachusetts reports the dispositions of renewals completed in the reporting
+period. Therefore, the state is unable to report the number of pending renewals
+to CMS, and Massachusetts’ data are excluded from the national totals for the
+May - July 2023 reporting periods. Vermont experienced a natural disaster, and
+the number of renewals initiated and completed in the July reporting period were
+impacted due to the disaster response efforts. Texas does not have renewal
+outcomes to report in the month of June. For the May 2023 reporting period,
+Texas’ renewal disposition data include actions completed after the end of the
+reporting period. For the April 2023 reporting period, Iowa's renewal
+disposition data include actions completed after the end of the reporting
+period. States that held procedural terminations reflect these data in metric 5d
+as pending renewals along with renewals that were due but not completed by the
+end of the reporting period. See the Data Sources and Metrics Definitions
+Overview document for a full description of the metric definitions and how they
+relate to each other.</p>     <p><b>Metric summation note:</b> Total number of
+beneficiaries due for renewal in the reporting month (Metric 5) = Total number
+of beneficiaries due for renewal in the reporting month whose coverage was
+renewed (Metric 5a) + Total beneficiaries determined ineligible for Medicaid and
+CHIP  based on the return of a renewal form (Metric 5b) + Total beneficiaries
+whose coverage was terminated for a procedural or administrative reason (Metric
+5c) + Total number of beneficiaries due for renewal in the reporting month whose
+renewal was pending at the end of the month (Metric 5d); Total number of
+beneficiaries due for renewal in the reporting month whose coverage was renewed
+(Metric 5a) = Total beneficiaries renewed on an ex parte basis (i.e., based on
+available information) (Metric 5a1) + Total beneficiaries renewed based on the
+return of a renewal form (Metric 5a2).</p>      <p><b>Data notes:</b>   (C1)
+Callbacks are included<br/>  (C2) Call centers offer callbacks<br/>  (C3) Does
+not include all calls received by call centers<br/>  (C4) Does not include all
+calls received after business hours<br/>  (C5) Includes calls for other benefit
+programs<br/>  (C6) Includes only calls transferred to a live agent<br/>  (C7)
+Includes state-based marketplace (SBM) data <br/>  (C8) New call center added in
+reporting period<br/>  (C9) Wait times for callbacks are included but reported
+separately from live calls<br/>  (C10) Does not operate a call center<br/>  (R1)
+Initiated two months' renewals due to delayed system modifications<br/>  (R2)
+Data do not reflect all Medicaid and CHIP enrollees with renewal actions in the
+reporting period <br/>  (R3) Reporting renewals at case level, as opposed to
+individual level<br/>  (R4) State held some or all procedural and/or other
+terminations for the report month <br/>  (R5) State implemented other mitigation
+strategies related to submission of renewal forms <br/>  (R6) Data reflect
+renewals and other eligibility and enrollment actions<br/>  (R7) Data represent
+Medicaid and CHIP enrollees whose renewal was completed in the reporting month
+rather than the cohort due for renewal in the reporting month<br/>  (R8) Data
+undercount renewals and reflect these outcomes in another metric in the data
+set<br/>  (R9) Data include renewals held and reassigned to a future month</p>
+<p>  This document includes Medicaid and CHIP data submitted to CMS by states
+regarding the number of renewals initiated and monthly renewal outcomes from the
+Unwinding Data Report and call center data from the Medicaid and CHIP
+Performance Indicator data set. These data include reporting metrics consistent
+with section 1902(tt)(1) of the Social Security Act and additional state-
+submitted renewal metrics.</p>
+
+329: HealthCare.gov Marketplace Medicaid Unwinding Report
+<p>Metrics from individual Marketplaces during the current reporting period. The
+report includes data for the states using HealthCare.gov.</p>
+<p><b>Sources:</b> HealthCare.gov application and policy data through September
+3, 2023, and T-MSIS Analytic Files (TAF) through July 2023 (TAF version 7.1 with
+T-MSIS enrollment through the end of July 2023). Data include consumers in
+HealthCare.gov states where the first Unwinding renewal cohort is due on or
+after the end of reporting month (state identification based on HealthCare.gov
+policy and application data). State data start being reported in the month when
+the state's first unwinding renewal cohort is due. April data include Arizona,
+Arkansas, Florida, Indiana, Iowa, Kansas, Nebraska, New Hampshire, Ohio,
+Oklahoma, South Dakota, Utah, West Virginia, and Wyoming. May data include the
+previous states and the following new states: Alaska, Delaware, Georgia, Hawaii,
+Montana, North Dakota, South Carolina, Texas, and Virginia. June data include
+the previous states and the following new states: Alabama, Illinois, Louisiana,
+Michigan, Missouri, Mississippi, North Carolina, Tennessee, and Wisconsin. July
+data include the previous states and Oregon. All HealthCare.gov states are
+included in this version of the report.</p>  <p><b>Notes: </b>  <ol>  <li> This
+table includes Marketplace consumers who: 1) submitted a HealthCare.gov
+application on or after the start of each state’s first reporting month; and 2)
+who can be linked to an enrollment record in TAF that shows Medicaid or CHIP
+enrollment between March 2023 and the latest reporting month.</li>
+<li>Cumulative counts show the number of unique consumers from the included
+population who had a Marketplace application submitted or a HealthCare.gov
+Marketplace policy on or after the start of each state’s first reporting month
+through the latest reporting month. Net counts show the difference between the
+cumulative counts through a given reporting month and previous reporting months.
+</li>  <li>The data used to produce the metrics are organized by week. Reporting
+months start on the first Monday of the month and end on the first Sunday of the
+next month when the last day of the reporting month is not a Sunday. For
+example, the April 2023 reporting period extends from Monday, April 3 through
+Sunday, April 30.</li>  <li>Data are preliminary and will be restated over time
+to reflect consumers most recent HealthCare.gov status. Data may change as
+states resubmit T-MSIS data or data quality issues are identified.</li>
+<li>Data do not represent Marketplace consumers who had a confirmed
+Medicaid/CHIP loss. Future reporting will look at coverage transitions for
+people who lost Medicaid/CHIP.</li>  <li>See the data and methodology
+documentation for a full description of the data sources, measure definitions,
+and general data limitations. </li>  </ol>  </p>  <p><b>Data notes:</b> <ol>
+<li> Data as of October 24, 2023. Utah has a data quality issue and TAF data for
+this state are unavailable for May through July 2023. This state's numbers only
+include consumers who were enrolled in Medicaid or CHIP in another state, but
+submitted a HealthCare.gov application for coverage in the state. </li>
+<li>Both Oklahoma and Pennsylvania have a data quality issue and more than 3
+percent of beneficiaries in TAF have 3 or more enrollment spans in a year. For
+more information about this data quality check,   see DQ Atlas
+(https://www.medicaid.gov/dq-
+atlas/landing/topics/single/map?topic=g2m10&tafVersionId=32)   a Percent of
+total Marketplace consumers with previous Medicaid or CHIP enrollment.
+<br>Some cells have a value of "NR" or not reported. State data starts being
+reported in the month when the state's first unwinding renewal cohort is due.
+</li></ol>  </p>                                      <p>APTC: Advance Premium
+Tax Credit; CHIP: Children's Health Insurance Program; NR: Not reported; QHP:
+Qualified Health Plan</p>
+
+330: Separate CHIP Enrollment by Month and State
+<p>State-reported data on CHIP eligibility renewals conducted during the
+reporting period and call center operations</p>  <p><b>Sources:</b>T-MSIS
+Analytic Files (TAF) and state-submitted enrollment totals. The data notes
+indicate when a state’s monthly total was a state-submitted value, rather than
+from T-MSIS.<br/><br/>TAF data were pulled as follows:<br/>April 2023 enrollment
+- TAF as of August 2023<br/>May 2023 enrollment - TAF as of August 2023<br/>June
+2023 enrollment - TAF as of September 2023</p>       <p>TAF are produced one
+month after the T-MSIS submission month. For example, TAF as of August 2023 is
+based on July T-MSIS submissions.</p>  <p><b>Notes:</b>The separate CHIP
+enrollment in this report is not inclusive of enrollees covered by Medicaid
+expansion CHIP. Enrollment includes individuals enrolled in separate CHIP at any
+point during the month but excludes those enrolled in both Medicaid and separate
+CHIP during the month. See the Data Sources and Metrics Definitions Overview
+document for a full description of the data sources, metric definitions, and
+general data limitations.<br/><br/>Alaska, District of Columbia, Hawaii, New
+Hampshire, New Mexico, North Carolina, North Dakota, Ohio, South Carolina,
+Vermont, and Wyoming do not have separate CHIP Programs. Maryland has a separate
+CHIP program that began in July 2023.<br/><br/>This document includes separate
+CHIP data submitted to CMS by states via T-MSIS or a separate collection form.
+These data include reporting metrics consistent with section 1902(tt)(1) of the
+Social Security Act.<br/><br/>CHIP: Children's Health Insurance Program</p>
+<p><b>Data notes:</b>   (a) State-submitted value; data not from T-MSIS<br/>(b1)
+May 2023 enrollment pulled from TAF as of September 2023</p>  <p>
+
+331: HealthCare.gov Transitions Marketplace Medicaid Unwinding Report
+<p>Metrics from individual Marketplaces during the current reporting period. The
+report includes data for the states using HealthCare.gov.</p>
+<p><b>Sources:</b> HealthCare.gov application and policy data through September
+3, 2023, HealthCare.gov inbound account transfer data through October 22, 2023,
+and T-MSIS Analytic Files (TAF) through June 2023 (TAF version 7.1). The table
+includes states that use HealthCare.gov.</p>  <p><b>Notes: </b>  <ol>  <li> This
+table includes Marketplace consumers who submitted a HealthCare.gov application
+from March 6, 2023 - September 3, 2023 or who had an inbound account transfer
+from April 3, 2023 - October 22, 2023, who can be linked to an enrollment record
+in TAF that shows a last day of Medicaid or CHIP enrollment from March 31, 2023
+- June 30, 2023. Beneficiaries with a leaving event may have continuous coverage
+through another coverage source, including Medicaid or CHIP coverage in another
+state. However, a beneficiary that lost Medicaid or CHIP coverage and regained
+coverage in the same state must have a gap of at least 31 days or a full
+calendar month.</li>  <li>This table includes Medicaid or CHIP beneficiaries
+with full benefits in the month they left Medicaid or CHIP coverage. </li>
+<li>Account Transfer Consumers Whose Medicaid or CHIP Coverage was Terminated’
+are consumers 1) whose full benefit Medicaid or CHIP coverage was terminated and
+2) were sent by a state Medicaid or CHIP agency via secure electronic file to
+the HealthCare.gov Marketplace in a process referred to as an inbound account
+transfer either 2 months before or 4 months after they left Medicaid or CHIP.
+'Marketplace Consumers Not on Account Transfer Whose Medicaid or CHIP Coverage
+was Terminated' are consumers 1) who applied at the HealthCare.gov Marketplace
+and 2) were not sent by a state Medicaid or CHIP agency via an inbound account
+transfer either 2 months before or 4 months after they left Medicaid or CHIP.
+</li>  <li>Marketplace consumers counts are based on the month Medicaid or CHIP
+coverage was terminated for a beneficiary. Counts include all recent Marketplace
+activity.</li>  <li>HealthCare.gov data are organized by week. Reporting months
+start on the first Monday of the month and end on the first Sunday of the next
+month when the last day of the reporting month is not a Sunday. HealthCare.gov
+data are through Sunday, September 3.</li>  <li>Data are preliminary and will be
+restated over time to reflect consumers most recent HealthCare.gov status. Data
+may change as states resubmit T-MSIS data or data quality issues are
+identified.</li>  <li>See the data and methodology documentation for a full
+description of the data sources, measure definitions, and general data
+limitations.</li>  </ol>  </p>                      <p><b>Data notes:</b> <ol>
+<li> The percentages for the 'Marketplace Consumers Not on Account Transfer
+whose Medicaid or CHIP Coverage was Terminated' data record group are marked as
+not available (NA) because the full population of consumers without an account
+transfer was not available for this report.</li>  <li>Data as of October 24,
+2023. Utah has a data quality issue and TAF data for this state are unavailable
+for May through July 2023. This state's numbers only include consumers who were
+enrolled in Medicaid or CHIP in another state, but submitted a HealthCare.gov
+application for coverage in the state. </li>  <li>Both Oklahoma and Pennsylvania
+have a data quality issue and more than 3 percent of beneficiaries in TAF have 3
+or more enrollment spans in a year. For more information about this data quality
+check,   see DQ Atlas (https://www.medicaid.gov/dq-
+atlas/landing/topics/single/map?topic=g2m10&tafVersionId=32).</li></ol>  </p>
+<p>APTC: Advance Premium Tax Credit; CHIP: Children's Health Insurance Program;
+QHP: Qualified Health Plan; NA: Not Available </p>
+
+332: State Medicaid and CHIP Applications, Eligibility Determinations, and Enrollment Data
+All states (including the District of Columbia) are required to provide data to
+The Centers for Medicare &amp; Medicaid Services (CMS) on a range of indicators
+related to key application, eligibility, and enrollment processes within the
+state Medicaid and Children’s Health Insurance Programs (CHIP). These data
+reflect enrollment activity for all populations receiving comprehensive Medicaid
+and CHIP benefits in all states, as well as state program performance.
+
+333: State Drug Utilization Data 2023
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+334: State Drug Utilization Data 2018
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+335: State Drug Utilization Data 2019
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+336: State Drug Utilization Data 2020
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+337: State Drug Utilization Data 2021
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+338: State Drug Utilization Data 2022
+Drug utilization data are reported by states for covered outpatient drugs that
+are paid for by state Medicaid agencies since the start of the Medicaid Drug
+Rebate Program. The data includes state, drug name, National Drug Code, number
+of prescriptions and dollars reimbursed. Data descriptions are available on
+Medicaid.gov: https://www.medicaid.gov/medicaid/prescription-drugs/state-drug-
+utilization-data/state-drug-utilization-data-faq/index.html
+
+339: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-27-to-2023-12-03
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+340: State-based Marketplace (SBM) Medicaid Unwinding Report
+<p>Metrics from individual Marketplaces during the current reporting period. The
+report includes data for the states using State-based Marketplaces (SBMs) that
+use their own eligibility and enrollment platforms</p>  <p><b>Source:</b> State-
+based Marketplace (SBM) operational data submitted to CMS. Each monthly
+reporting period occurs during the first through last day of the reported month.
+For April, Idaho’s reporting period was from February 1, 2023 to April 30, 2023.
+April data includes the following SBMs: Connecticut, Idaho, Kentucky, Maine,
+Maryland, Massachusetts, Minnesota, Nevada, New Jersey, New Mexico,
+Pennsylvania, Vermont, and Washington. May data includes the previous SBMs and
+the following new SBMs: Colorado, District of Columbia, New York, and Rhode
+Island. June data includes the previous SBMs and the following new SBM:
+California. The following data through August includes all previous SBMs. Some
+SBMs did not receive applicable applications during certain reporting period
+months. Some SBMs may revise data from a prior month and thus this data may not
+align with that previously reported. </p>               <p><b>Notes:</b>  <ol>
+<li>This table represents consumers whose Medicaid/CHIP coverage was denied or
+terminated following renewal and 1) whose applications were processed by an SBM
+through an integrated Medicaid, CHIP, and Marketplace eligibility system or 2)
+whose applications/information was sent by a state Medicaid or CHIP agency to an
+SBM through an account transfer process. Consumers who submitted applications to
+an SBM that can be matched to a Medicaid/CHIP record are also included. See the
+""Data Sources and Metrics Definition Overview"" at http://www.medicaid.gov for
+a full description of the differences between the SBM operating systems and
+resulting data metrics, measure definitions, and general data limitations. As of
+the September 2023 report, this table was updated to differentiate between SBMs
+with an integrated Medicaid, CHIP, and Marketplace eligibility system and those
+with an account transfer process to better represent the percentage of QHP
+selections in relation to applicable consumers received and processed by the
+relevant SBM. State-specific variations are:     - Maine’s data and Nevada’s
+April and May data report all applications with Medicaid/CHIP denials or
+terminations, not only those part of the annual renewal process.   -
+Connecticut, Massachusetts, and Washington also report applications with
+consumers determined ineligible for Medicaid/CHIP due to procedural reasons.  -
+Minnesota and New York report on eligibility and enrollment for their Basic
+Health Programs.  - Idaho’s April data on consumers eligible for a QHP with
+financial assistance does not depict a direct correlation to consumers with a
+QHP selection.  - Only SBMs with an automatic plan assignment process have and
+report automatic QHP selections. These SBMs make automatic plan assignments into
+a QHP for a subset of individuals and provide a notification of options
+regarding active selection of an alternative plan and/or, if applicable, making
+the first month’s premium payment.  </li>    <li>SBMs report on all applicable
+applications received and not on the Medicaid-defined cohorts of individuals
+whose renewal is due in a given month. The data in this table is not cumulative
+and counts unique Marketplace activities during the reporting period month in
+which the relevant activity occurs. As such, activities by any one consumer may
+be included across reporting months. For example, a consumer who submits an
+application and receives a determination of QHP eligibility may be counted in
+one month but his/her plan selection could be counted in a later month. Thus,
+the percentages do not necessarily depict a direct correlation to the count of
+consumers on applications received during the current reporting month. Total
+counts represent activity across the reporting months and is not cumulative as
+of the latest reporting month. Updated applications in the reporting month are
+only counted once. Updated applications in a following month may be counted
+again in that applicable month only if the consumer obtains a new Medicaid/CHIP
+renewal.</li>    <li> SBMs have different operational processes and eligibility
+systems for handling QHP, Medicaid and CHIP eligibility determinations. While
+CMS works with SBMs to align the metric definitions across the Marketplaces
+there can be limitations and anomalies among the SBM data due to different SBM
+system capabilities. Additionally, variances in the data may be attributable to
+differences in how states are conducting unwinding renewals including processing
+timelines and whether states are staging applications for population cohorts
+(e.g., over age 65).  a Percent of consumers on applications whose Medicaid/CHIP
+coverage was denied or terminated following renewal during the reporting period
+month.         b Percent of consumers on account transfers whose Medicaid/CHIP
+coverage was denied or terminated following renewal during the reporting period
+month. The percentages for SBMs with integrated eligibility systems and the SBM
+Total - Integrated and SBM Total data record groups are marked as not available
+(NA) because SBMs with integrated eligibility systems do not receive account
+transfers. Additionally, the percentages for some SBMs with account transfer
+processes and the SBM Total - Account Transfer data record group are marked as
+not available (NA) because not all consumers on applications who are connected
+to an account transfer are counted in 'Consumers on Account Transfers Associated
+with a Medicaid/CHIP Coverage Denial or Termination Following Renewal.' For
+example, Pennsylvania conducts automatic eligibility determinations for
+Marketplace plans for some account transfers and counts those consumers only in
+the application metrics. </li>  </ol>     <p>APTC: Advance Premium Tax Credit;
+CHIP: Children's Health Insurance Program; QHP: Qualified Health Plan; BHP:
+Basic Health Program</p>
+
+341: Drug AMP Reporting - Monthly
+Drugs that have been reported under the Medicaid Drug Rebate Program along with
+an indication of whether or not the required Average Manufacturer Price (AMP)
+was reported for each drug. All drugs are identified in the file by the 11-digit
+National Drug Code, product name, labeler name, and reported (R) or not reported
+(NR).
+
+342: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-04-to-2023-12-10
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+343: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-11-to-2023-12-17
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
+344: Medicaid CMS-64 FFCRA Increased FMAP Expenditure
+During a public health emergency in the Families First Coronavirus Response Act
+(FFCRA), a new optional Medicaid eligibility group was added called COVID-19
+testing eligibility group. States reported these expenditures under sections
+6004 and 6008 through the Medicaid Budget and Expenditure System (MBES) on the
+Form CMS-64. The data in these reports constitute summary level preliminary
+expenditure information related to these FFCRA provisions for each state
+Notes:  1. The Families First Coronavirus Response Act (FFCRA), enacted on March
+18, 2020, provided a temporary FMAP increase to states and territories meeting
+certain qualifications and added a new optional
+Medicaid eligibility group for uninsured individuals during a public health
+emergency in section 1902(a)(10)(A)(ii)(XXIII) of the Act, referred to as the
+“COVID - 19 Testing Group.”                                         2. FFCRA
+Section 6008 provides a temporary 6.2 percentage point FMAP increase to each
+qualifying state and territory's FMAP under section 1905(b) of the Act,
+beginning January 1, 2020 and lasting through
+the end of the quarter in which the public health emergency (PHE) declared by
+the Secretary for COVID-19 ends, including any extensions.
+3. FFCRA Section 6004 provides a 100 percent match rate for individuals eligible
+under the new optional Medicaid eligibility group in section
+1902(a)(10)(A)(ii)(XXIII) of the Act, beginning no earlier than
+March 18, 2020 and lasting through the end of the PHE for COVID-19.
+4. States that have reported “0” either have no expenditures for that reporting
+category or have not yet reported expenditures for that category.
+5. This report is a cumulative summary report that includes current and prior
+period adjustment expenditures that apply to this quarter   6. For the Quarter
+ending 03/31/2020: Delaware has Negative Total Computable Expenditures and Total
+Federal Share Expenditures due to the reporting of prior period adjustments
+during this period.                               7. For the Quarter ending
+09/30/2020: Colorado has Negative Total Computable Section 6004 Covid 19
+Expenditures and Total Federal Share Section 6004 Covid 19 Expenditures due to
+the reporting of prior period adjustments during this period.
+8. For the Quarter ending 03/31/2021: California has Negative Total Computable
+Section 6004 Covid 19 Expenditures and Total Federal Share Section 6004 Covid 19
+Expenditures due to the reporting of prior period adjustments during this
+period. This corrected FY 2020 Q4 expenditures for Treatment services that are
+not allowed for Section 6004 100% FMAP match.  9. For the Quarter ending
+03/31/2021: Utah has Negative Total Computable Section 6004 Covid 19
+Expenditures and Total Federal Share Section 6004 Covid 19 Expenditures due to
+the reporting of prior period adjustments during this period.  10. For the
+Quarter ending 12/31/2022: California has Negative Total Computable Section 6004
+Covid 19 Expenditures and Total Federal Share Section 6004 Covid 19 Expenditures
+due to the reporting of prior period adjustments during this period.  11. For
+the Quarter ending 12/31/2022: Connecticut has Negative Total Computable Section
+6004 Covid 19 Expenditures and Total Federal Share Section 6004 Covid 19
+Expenditures due to the reporting of prior period adjustments during this
+period.
+
+345: First Time NADAC Rates
+The tables below display new National Average Drug Acquisition Cost (NADAC)
+rates, sorted by Drug Product and Date. The drug products listed have not had a
+NADAC rate in the past.
+
+346: Scorecard PILLAR v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+347: Scorecard STATE v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+348: Scorecard MEASURE_VALUE v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+349: Scorecard MEASURE v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+350: Scorecard FILTERS v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+351: Scorecard SELECTIONS v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+352: Scorecard VERSION v0.drew.2-test (local)
+This is a dataset created for the Medicaid Scorecard website
+(https://www.medicaid.gov/state-overviews/scorecard/index.html), and is not
+intended for use outside that application.
+
+353: State Medicaid and CHIP Applications, Eligibility Determinations, and Enrollment Data-test
+test
+
+354: NADAC (National Average Drug Acquisition Cost) 2023
+National Average Drug Acquisition Cost (NADAC) weekly reference data for the
+calendar year.
+
+355: NADAC Comparison
+The NADAC Weekly Comparison identifies the drug products with current NADAC
+rates that are replaced with new NADAC rates.  Other changes (e.g. NDC additions
+and terminations) to the NADAC file are not reflected in this comparison.
+Note: Effective Date was not recorded in the dataset until 6/7/2017
+
+356: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-18-to-2023-12-24
+The data below contains newly reported, active covered outpatient drugs which
+were reported by participating drug manufacturers since the last quarterly
+update of the Drug Products in the Medicaid Drug Rebate Program (MDRP) database.
+
