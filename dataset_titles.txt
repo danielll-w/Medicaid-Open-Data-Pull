@@ -1,0 +1,357 @@
+0: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211011 to 20211017
+1: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program
+2: implAuto_measure_allStates_download
+3: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210802 to 20210808
+4: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210809 to 20210815
+5: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210816 to 20210822
+6: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210823 to 20210829
+7: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210927 to 20211003
+8: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210830 to 20210905
+9: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210906 to 20210912
+10: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210913 to 20210919
+11: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210920 to 20210926
+12: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20210726 to 20210801
+13: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211004 to 20211010
+14: prodAuto_measure_allStates_download
+15: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211018 to 20211024
+16: 2018 Managed Care Programs By State
+17: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211025 to 20211031
+18: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 20211101 to 20211107
+19: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-01-31 to 2022-02-06
+20: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-07 to 2022-02-13
+21: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-14 to 2022-02-20
+22: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-21 to 2022-02-27
+23: featAuto_measure_allStates_download
+24: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-02-28 to 2022-03-06
+25: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-07 to 2022-03-13
+26: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-14 to 2022-03-20
+27: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-03-21 to 2022-03-27
+28: SDUD
+29: NADAC
+30: CHIP Applications, Eligibility Determinations, and Enrollment Data
+31: devAuto_measure_allStates_download
+32: 2020 Managed Care Programs By State
+33: 2019 Managed Care Programs By State
+34: featAuto_states
+35: PTP1executedv1-test
+36: DrugProductexecutedv1 - test
+37: featAuto_files_stateSnapshot
+38: featAuto_files_topicSnapshot
+39: devAuto_files_stateSnapshot
+40: devAuto_files_topicSnapshot
+41: implAuto_files_topicSnapshot
+42: implAuto_files_stateSnapshot
+43: prodAuto_files_topicSnapshot
+44: prodAuto_files_stateSnapshot
+45: State Drug Utilization Data 1991
+46: State Drug Utilization Data 1992
+47: State Drug Utilization Data 1993
+48: State Drug Utilization Data 1994
+49: State Drug Utilization Data 1995
+50: State Drug Utilization Data 1996
+51: State Drug Utilization Data 1997
+52: State Drug Utilization Data 1998
+53: State Drug Utilization Data 1999
+54: State Drug Utilization Data 2000
+55: State Drug Utilization Data 2001
+56: State Drug Utilization Data 2002
+57: State Drug Utilization Data 2003
+58: State Drug Utilization Data 2004
+59: State Drug Utilization Data 2005
+60: State Drug Utilization Data 2006
+61: State Drug Utilization Data 2007
+62: State Drug Utilization Data 2008
+63: State Drug Utilization Data 2009
+64: State Drug Utilization Data 2010
+65: State Drug Utilization Data 2011
+66: State Drug Utilization Data 2012
+67: State Drug Utilization Data 2013
+68: State Drug Utilization Data 2014
+69: State Drug Utilization Data 2015
+70: State Drug Utilization Data 2016
+71: State Drug Utilization Data 2017
+72: Pricing Comparison for Blood Disorder Treatments (Pricing as of 6/1/2022)
+73: Pricing Comparison for Blood Disorder Treatments (Pricing as of 12/1/2022)
+74: Pricing Comparison for Blood Disorder Treatments (Pricing as of 12/1/2021)
+75: NADAC (National Average Drug Acquisition Cost) 2022
+76: NADAC (National Average Drug Acquisition Cost) 2021
+77: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-30-to-2023-02-05
+78: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-02-to-2023-01-08
+79: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-09-to-2023-01-15
+80: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-16-to-2023-01-22
+81: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-01-23-to-2023-01-29
+82: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2022-12-26-to-2023-01-01
+83: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-06-to-2023-02-12
+84: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-13-to-2023-02-19
+85: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-20-to-2023-02-26
+86: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-02-27-to-2023-03-05
+87: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-06-to-2023-03-12
+88: Program Information for Medicaid and CHIP Beneficiaries by Month
+89: Program Information for Medicaid and CHIP Beneficiaries by Year
+90: Benefit Package for Medicaid and CHIP Beneficiaries by Month
+91: Benefit Package for Medicaid and CHIP Beneficiaries by Year
+92: Dual Status Information for Medicaid and CHIP Beneficiaries by Month
+93: Dual Status Information for Medicaid and CHIP Beneficiaries by Year
+94: Major Eligibility Group Information for Medicaid and CHIP Beneficiaries by Month
+95: Major Eligibility Group Information for Medicaid and CHIP Beneficiaries by Year
+96: Managed Care Information for Medicaid and CHIP Beneficiaries by Month
+97: Managed Care Information for Medicaid and CHIP Beneficiaries by Year
+98: Acute Care Services Provided to the Medicaid and CHIP Population
+99: Behavioral Health Services Provided to the Medicaid and CHIP Population
+100: Blood Lead Screening Services Provided to Medicaid and CHIP Beneficiaries Ages 1-2
+101: COVID Testing  and Testing-Related  Services Provided to Medicaid and CHIP Beneficiaries
+102: Contraceptive Care Services Provided to Medicaid and CHIP Beneficiaries ages 15 to 44
+103: Dental Services Provided to Medicaid and CHIP Beneficiaries Under Age 19
+104: Perinatal Care Services Provided to Medicaid and CHIP Beneficiaries ages 15 to 44
+105: Pregnancy Outcomes for Medicaid and CHIP Beneficiaries ages 15 to 44
+106: Telehealth Services Provided to the Medicaid and CHIP Population
+107: Vaccinations Provided to the Medicaid and CHIP Population under age 19
+108: Health Screenings Provided to Medicaid and CHIP Beneficiaries Under Age 19
+109: Respiratory Conditions in the Medicaid and CHIP Population
+110: Beneficiaries who could benefit from integrated care, 2017-2020
+111: Number and rate of SMM among Medicaid- and CHIP-covered deliveries, 2017 - 2020
+112: Number and rate of NAS per 1,000 births in newborns whose deliveries were covered by Medicaid or CHIP, 2017 - 2020
+113: Beneficiaries receiving a behavioral health service by behavioral health condition, 2017-2020
+114: Beneficiaries receiving a physical hlth serv among beneficiaries receiving a mental hlth serv, by physical hlth cond, 2017-2020
+115: Beneficiaries receiving a physical health service among beneficiaries receiving a SUD service by physical health cond, 2017-2020
+116: Number of pregnant and postpartum Medicaid and CHIP beneficiaries, 2017-2020
+117: Rate of NAS per 1,000 births in newborns whose deliveries were covered by Medicaid or CHIP, 2017 - 2019
+118: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-13-to-2023-03-19
+119: Scorecard pillar
+120: Scorecard measure
+121: Scorecard measure
+122: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-20-to-2023-03-26
+123: Scorecard measure
+124: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-03-27-to-2023-04-02
+125: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-03-to-2023-04-09
+126: Scorecard example_small_source_data_file
+127: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-10-to-2023-04-16
+128: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-17-to-2023-04-23
+129: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-04-24-to-2023-04-30
+130: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-01-to-2023-05-07
+131: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-08-to-2023-05-14
+132: Scorecard TAG v0.2.4-1 (etl_test)
+133: Scorecard TAG v0.2.4-1 (dev)
+134: Scorecard TAG v0.2.4-1 (dev0)
+135: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-15-to-2023-05-21
+136: Scorecard TAG v0.3.0-1 (etl_test)
+137: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-22-to-2023-05-28
+138: Scorecard TAG v0.2.4-1 (dev0)
+139: Scorecard TAG v0.3.0-1 (etl_test)
+140: Scorecard TAG v0.2.4-1 (dev)
+141: implAuto_files_allDownloads
+142: featAuto_footnotes
+143: featAuto_measure_concernLevel
+144: featAuto_topicArea_measureDisplayGroups
+145: featAuto_tafVersion
+146: featAuto_states_measures_download
+147: featAuto_states_measures
+148: featAuto_states
+149: featAuto_measure_compare_download
+150: featAuto_measure_compare
+151: featAuto_measure_backgroundAndMethods
+152: featAuto_measure_allStates_downloadLink
+153: featAuto_measure_allStates
+154: featAuto_measureSearchInfo
+155: featAuto_map
+156: featAuto_files_allDownloadsSSBtn
+157: featAuto_files_allDownloads
+158: featAuto_fileType_measureDisplayGroups
+159: featAuto_concernLevel
+160: Scorecard TAG v0.3.1-1 (etl_test)
+161: prodAuto_files_allDownloads
+162: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-05-29-to-2023-06-04
+163: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-05-to-2023-06-11
+164: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-19-to-2023-06-25
+165: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-12-to-2023-06-18
+166: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-06-26-to-2023-07-02
+167: Pricing Comparison for Blood Disorder Treatments (Pricing as of 6/1/2023)
+168: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-03-to-2023-07-09
+169: Test 0712
+170: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-10-to-2023-07-16
+171: Managed Care Enrollment by Program and Population (Duals)
+172: Share of Medicaid Enrollees in Managed Care
+173: Managed Care Enrollment Summary
+174: Managed Care Enrollment by Program and Plan
+175: Managed Care Features By Enrollment Population
+176: Managed Care Features by QA and Performance Incentive
+177: 2021 Managed Care Programs By State
+178: Managed Care Enrollment by Program and Population (All)
+179: Managed Long Term Services and Supports (MLTSS) Enrollees
+180: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-17-to-2023-07-23
+181: Scorecard Example
+182: 2017 Managed Care Programs by State
+183: category_tiles
+184: Presumptive Eligibility for Medicaid and CHIP Coverage
+185: Managed Care Programs by State
+186: Disproportionate Share Hospital (DSH) Payments - Annual Reporting Requirements
+187: Express Lane Eligibility for Medicaid and CHIP Coverage
+188: Continuous Eligibility for Medicaid and CHIP Coverage
+189: Medicaid Financial Management Data – National Totals
+190: Medicaid Financial Management Data
+191: featured_stories
+192: NAM CAHPS 2014 Public Use
+193: Medicaid and CHIP Eligibility Levels
+194: NADAC (National Average Drug Acquisition Cost) 2013
+195: NADAC (National Average Drug Acquisition Cost) 2019
+196: NADAC (National Average Drug Acquisition Cost) 2020
+197: NADAC (National Average Drug Acquisition Cost) 2017
+198: NADAC (National Average Drug Acquisition Cost) 2016
+199: NADAC (National Average Drug Acquisition Cost) 2015
+200: NADAC (National Average Drug Acquisition Cost) 2014
+201: NADAC (National Average Drug Acquisition Cost) 2018
+202: wallpaper_banner
+203: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-24-to-2023-07-30
+204: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-07-31-to-2023-08-06
+205: Scorecard PILLAR v0.3.58-test (local)
+206: Scorecard STATE v0.3.58-test (local)
+207: Scorecard MEASURE_VALUE v0.3.58-test (local)
+208: Scorecard MEASURE v0.3.58-test (local)
+209: Scorecard FILTERS v0.3.58-test (local)
+210: Scorecard VERSION v0.3.58-test (local)
+211: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-07-to-2023-08-13
+212: devAuto_files_allDownloads
+213: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-21-to-2023-08-27
+214: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-14-to-2023-08-20
+215: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-08-28-to-2023-09-03
+216: 2022 Child and Adult Health Care Quality Measures Quality
+217: 2019 Child and Adult Health Care Quality Measures Quality
+218: 2020 Child and Adult Health Care Quality Measures Quality
+219: 2021 Child and Adult Health Care Quality Measures Quality
+220: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-04-to-2023-09-10
+221: 2014 Child and Adult Health Care Quality Measures
+222: 2016 Child and Adult Health Care Quality Measures
+223: 2015 Child and Adult Health Care Quality Measures
+224: 2017 Child and Adult Health Care Quality Measures
+225: 2018 Child and Adult Health Care Quality Measures
+226: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-11-to-2023-09-17
+227: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-18-to-2023-09-24
+228: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-09-25-to-2023-10-01
+229: Exclusive Pediatric Drugs
+230: Clotting Factor Drug Report
+231: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-02-to-2023-10-08
+232: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-09-to-2023-10-15
+233: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-16-to-2023-10-22
+234: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-23-to-2023-10-29
+235: Medicaid Enrollment - New Adult Group
+236: Drug Manufacturer Contacts
+237: Medicaid Drug Rebate Program State Contact Information
+238: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-10-30-to-2023-11-05
+239: Drug Products in the Medicaid Drug Rebate Program
+240: Drug AMP Reporting - Quarterly
+241: Test456
+242: Division of Pharmacy Releases Index dataset
+243: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-06-to-2023-11-12
+244: Scorecard PILLAR v1.0.6 (dev)
+245: Scorecard STATE v1.0.6 (dev)
+246: Scorecard MEASURE_VALUE v1.0.6 (dev)
+247: Scorecard MEASURE v1.0.6 (dev)
+248: Scorecard FILTERS v1.0.6 (dev)
+249: Scorecard VERSION v1.0.6 (dev)
+250: Scorecard PILLAR v1.0.6 (dev0)
+251: Scorecard STATE v1.0.6 (dev0)
+252: Scorecard MEASURE_VALUE v1.0.6 (dev0)
+253: Scorecard MEASURE v1.0.6 (dev0)
+254: Scorecard FILTERS v1.0.6 (dev0)
+255: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-13-to-2023-11-19
+256: Medicaid CMS-64 New Adult Group Expenditures
+257: Scorecard PILLAR v1.0.6 (impl)
+258: Scorecard STATE v1.0.6 (impl)
+259: Scorecard MEASURE_VALUE v1.0.6 (impl)
+260: Scorecard MEASURE v1.0.6 (impl)
+261: Scorecard FILTERS v1.0.6 (impl)
+262: Scorecard VERSION v1.0.6 (impl)
+263: Scorecard PILLAR v1.0.6 (prod)
+264: Scorecard STATE v1.0.6 (prod)
+265: Scorecard MEASURE_VALUE v1.0.6 (prod)
+266: Scorecard MEASURE v1.0.6 (prod)
+267: Scorecard FILTERS v1.0.6 (prod)
+268: Scorecard VERSION v1.0.6 (prod)
+269: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-20-to-2023-11-26
+270: devAuto_footnotes
+271: devAuto_states_measures_download
+272: devAuto_measure_compare
+273: devAuto_measure_concernLevel
+274: devAuto_states
+275: devAuto_measure_compare_download
+276: devAuto_tafVersion
+277: devAuto_files_allDownloadsSSBtn
+278: devAuto_fileType_measureDisplayGroups
+279: devAuto_concernLevel
+280: devAuto_measureSearchInfo
+281: devAuto_map
+282: devAuto_topicArea_measureDisplayGroups
+283: devAuto_states_measures
+284: devAuto_measure_backgroundAndMethods
+285: devAuto_measure_allStates_downloadLink
+286: devAuto_measure_allStates
+287: implAuto_topicArea_measureDisplayGroups
+288: implAuto_tafVersion
+289: implAuto_states_measures_download
+290: implAuto_states_measures
+291: implAuto_states
+292: implAuto_measure_concernLevel
+293: implAuto_measure_compare_download
+294: implAuto_measure_compare
+295: implAuto_measure_backgroundAndMethods
+296: implAuto_measure_allStates_downloadLink
+297: implAuto_measure_allStates
+298: implAuto_measureSearchInfo
+299: implAuto_footnotes
+300: implAuto_files_allDownloadsSSBtn
+301: implAuto_fileType_measureDisplayGroups
+302: implAuto_concernLevel
+303: implAuto_map
+304: prodAuto_topicArea_measureDisplayGroups
+305: prodAuto_tafVersion
+306: prodAuto_states_measures_download
+307: prodAuto_states_measures
+308: prodAuto_states
+309: prodAuto_measure_concernLevel
+310: prodAuto_measure_compare_download
+311: prodAuto_measure_compare
+312: prodAuto_measure_backgroundAndMethods
+313: prodAuto_measure_allStates_downloadLink
+314: prodAuto_measure_allStates
+315: prodAuto_measureSearchInfo
+316: prodAuto_map
+317: prodAuto_footnotes
+318: prodAuto_files_allDownloadsSSBtn
+319: prodAuto_fileType_measureDisplayGroups
+320: prodAuto_concernLevel
+321: ACA Federal Upper Limits
+322: Scorecard PILLAR v1.0.7 (etl-test)
+323: Scorecard STATE v1.0.7 (etl-test)
+324: Scorecard MEASURE_VALUE v1.0.7 (etl-test)
+325: Scorecard MEASURE v1.0.7 (etl-test)
+326: Scorecard FILTERS v1.0.7 (etl-test)
+327: Scorecard VERSION v1.0.7 (etl-test)
+328: Medicaid and CHIP CAA Reporting Metrics
+329: HealthCare.gov Marketplace Medicaid Unwinding Report
+330: Separate CHIP Enrollment by Month and State
+331: HealthCare.gov Transitions Marketplace Medicaid Unwinding Report
+332: State Medicaid and CHIP Applications, Eligibility Determinations, and Enrollment Data
+333: State Drug Utilization Data 2023
+334: State Drug Utilization Data 2018
+335: State Drug Utilization Data 2019
+336: State Drug Utilization Data 2020
+337: State Drug Utilization Data 2021
+338: State Drug Utilization Data 2022
+339: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-11-27-to-2023-12-03
+340: State-based Marketplace (SBM) Medicaid Unwinding Report
+341: Drug AMP Reporting - Monthly
+342: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-04-to-2023-12-10
+343: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-11-to-2023-12-17
+344: Medicaid CMS-64 FFCRA Increased FMAP Expenditure
+345: First Time NADAC Rates
+346: Scorecard PILLAR v0.drew.2-test (local)
+347: Scorecard STATE v0.drew.2-test (local)
+348: Scorecard MEASURE_VALUE v0.drew.2-test (local)
+349: Scorecard MEASURE v0.drew.2-test (local)
+350: Scorecard FILTERS v0.drew.2-test (local)
+351: Scorecard SELECTIONS v0.drew.2-test (local)
+352: Scorecard VERSION v0.drew.2-test (local)
+353: State Medicaid and CHIP Applications, Eligibility Determinations, and Enrollment Data-test
+354: NADAC (National Average Drug Acquisition Cost) 2023
+355: NADAC Comparison
+356: Product Data for Newly Reported Drugs in the Medicaid Drug Rebate Program 2023-12-18-to-2023-12-24
